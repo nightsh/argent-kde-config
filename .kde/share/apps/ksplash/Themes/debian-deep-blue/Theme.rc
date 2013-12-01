@@ -1,0 +1,7 @@
+[KSplash Theme: debian-deep-blue]
+Name = Debian Deep Blue
+Description = KDE Debian 6 Splash
+Version = 1.0
+Author = Guilherme Carlos
+Homepage = www.twitter.com/guiessence
+Engine = KSplashX

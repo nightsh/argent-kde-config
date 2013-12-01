@@ -1,0 +1,33 @@
+SCALE ON
+BACKGROUND_IMAGE 0 0 background.png
+SCALE OFF
+
+# rectangle image center 415x288
+IMAGE_REL CC 0 0 CC rectangle.png
+
+# overlay image center 415x228
+IMAGE_REL CC 0 0 CC overlay.png
+
+# progress bar 265x30
+IMAGE_REL CC 0 0 CC progress.png
+#WAIT_STATE initial
+IMAGE_REL CC 0 0 CC progress1.png
+#WAIT_STATE initial
+IMAGE_REL CC 0 0 CC progress2.png
+WAIT_STATE kcminit
+IMAGE_REL CC 0 0 CC progress3.png
+WAIT_STATE wm
+IMAGE_REL CC 0 0 CC progress4.png
+WAIT_STATE desktop
+IMAGE_REL CC 0 0 CC progress5.png
+WAIT_STATE ready
+IMAGE_REL CC 0 0 CC progress6.png
+#WAIT_STATE initial
+IMAGE_REL CC 0 0 CC progress7.png
+WAIT_STATE kcminit
+IMAGE_REL CC 0 0 CC progress8.png
+WAIT_STATE wm
+IMAGE_REL CC 0 0 CC progress9.png
+WAIT_STATE desktop
+IMAGE_REL CC 0 0 CC progress10.png
+WAIT_STATE ready

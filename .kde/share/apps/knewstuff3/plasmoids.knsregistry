@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>EG-SysMon-QC</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=EGG01">EGG01</author>
+  <homepage>http://opendesktop.org/content/show.php?content=114504</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>92</rating>
+  <downloads>16898</downloads>
+  <installedfile>/tmp/kde-victor///114504-EG-SysMon-QC.skz</installedfile>
+  <id>114504</id>
+  <releasedate>2009-10-29</releasedate>
+  <summary>Super carramba theme.&#xd;
+I just looked for system monitor plasmoids, but nothig liked me found, so i took a lot of them and rework. This is my first release, so any suggestions welcome. &#xd;
+Sorry for my poor english.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m114504-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/114504-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/114504-EG-SysMon-QC.skz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Steam Time</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=niceway">niceway</author>
+  <homepage>http://opendesktop.org/content/show.php?content=159747</homepage>
+  <licence>1</licence>
+  <version>1.1</version>
+  <rating>78</rating>
+  <downloads>381</downloads>
+  <installedfile>/tmp/kde-victor///159747-steamtime.plasmoid</installedfile>
+  <id>159747</id>
+  <releasedate>2013-08-18</releasedate>
+  <summary>This plasmoid provides a clock via steampunk interface.&#xd;
+It is written entirely in QML + JavaScript.&#xd;
+&#xd;
+Graphics in this plasmoid orginate from Steam Clock&#xd;
+http://customize.org/rainmeter/skins/65669464&#xd;
+&#xd;
+&#xd;
+Video preview: http://vimeo.com/72582263&#xd;
+&#xd;
+Browse Source: https://github.com/Joker/steamtime&#xd;
+&#xd;
+&#xd;
+Installing:&#xd;
+&#xd;
+plasmapkg -i steamtime.plasmoid&#xd;
+&#xd;
+for Arch AUR: &#xd;
+https://aur.archlinux.org/packages/kdeplasma-applets-steam-time/</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m159747-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/159747-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/159747-steamtime.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Google Calendar Agenda (ownCloud too!)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=GDR">GDR</author>
+  <homepage>http://opendesktop.org/content/show.php?content=134032</homepage>
+  <licence>0</licence>
+  <version>0.23</version>
+  <rating>59</rating>
+  <downloads>885</downloads>
+  <installedfile>/tmp/kde-victor///plasma_gcal.plasmoid</installedfile>
+  <id>134032</id>
+  <releasedate>2013-02-28</releasedate>
+  <summary>This plasmoid shows a list of future tasks in Google Calendar (agenda). It's mostly inspired by Android widgets. It differs from other gcal plasmoids because it's not a frame displaying GCal Mobile. It supports arbitrary number of calendars and chances are that it also supports other online calendars as long as they export iCal.&#xd;
+This plasmoid is licensed under beerware license, http://en.wikipedia.org/wiki/Beerware                                       &#xd;
+&#xd;
+Written in Python&#xd;
+                                                                                                                              &#xd;
+# Dependency&#xd;
+plasma-scriptengine-python, python-kde4, python-qt4 - all of them present in kubuntu out of the box&#xd;
+kdelibs5-dev - needs to be installed in older versions of Kubuntu. Try kdelibs5-plugins instead in newer versions, but it should be already installed.&#xd;
+                                                                                                                              &#xd;
+# How to install&#xd;
+sudo apt-get install kdelibs5-plugins&#xd;
+wget -O - http://gdr.geekhood.net/gdrwpl/heavy/gcal-plasmoid-bootstrap.sh | sh -s&#xd;
+                                                                                                                              &#xd;
+GUI installation of python plasmoids doesn't work at the moment.&#xd;
+                                                                                                                              &#xd;
+# How to use with Google&#xd;
+http://www.youtube.com/watch?v=gLf5zpCgnWE&#xd;
+&#xd;
+# How to use with ownCloud&#xd;
+http://gdr.geekhood.net/gdrwpl/gcal-agenda-owncloud.php</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m134032-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/134032-1.png</previewBig>
+  <payload>http://gdr.geekhood.net/gdrwpl/heavy/plasma_gcal.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>fbnotifier-plasmoid</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=pulmro">pulmro</author>
+  <homepage>http://opendesktop.org/content/show.php?content=129051</homepage>
+  <licence>1</licence>
+  <version>0.1.4</version>
+  <rating>76</rating>
+  <downloads>584</downloads>
+  <installedfile>/tmp/kde-victor///129051-fbnotifier-plasmoid-0.1.4.plasmoid</installedfile>
+  <id>129051</id>
+  <releasedate>2013-10-24</releasedate>
+  <summary>A Facebook notification widget for your KDE desktop.&#xd;
+&#xd;
+This widget displays the number of unread Facebook notifications.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m129051-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/129051-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/129051-fbnotifier-plasmoid-0.1.4.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Py Text Monitor</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=arcanis">arcanis</author>
+  <homepage>http://opendesktop.org/content/show.php?content=157124</homepage>
+  <licence>1</licence>
+  <version>1.4.0</version>
+  <rating>61</rating>
+  <downloads>182</downloads>
+  <installedfile>/tmp/kde-victor///py-text-monitor-1.4.0.plasmoid</installedfile>
+  <id>157124</id>
+  <releasedate>2013-10-22</releasedate>
+  <summary>PyTextMonitor is a minimalistic Plasmoid script written on Python2. It looks like widgets in awesome-wm. It is also easy to configure. I think that this can be considered as fork TextMon, but TextMon was written on JS.&#xd;
+&#xd;
+For edited output you must open Settings window and setup output format in lines:&#xd;
+label "$uptime" means uptime, ---d--h--m&#xd;
+label "$cpu" means total load cpu, %&#xd;
+label "$ccpu" means load CPU for each core, %&#xd;
+label "$cpucl" - average cpu clock, MHz&#xd;
+label "$ccpucl" - cpu clock for each core, MHz&#xd;
+label "$temp" - average temperature in system&#xd;
+label "$gpu" - GPU usage, %. `aticonfig` or `nvidia-smi` must be installed&#xd;
+label "$gputemp" - GPU temperature. `aticonfig` or `nvidia-smi` must be installed&#xd;
+label "$mem" - usage memory, %&#xd;
+label "$memmb" - usage memory, MB&#xd;
+label "$swap" - swap, %&#xd;
+label "$swapmb" - swap, MB&#xd;
+label "@@/@@" (in hdd label) - mount point ('/' in example) usage, %. Separator for mount points list is ';', for example "@@/;/home;/mnt/global@@". `hddtemp` must be installed&#xd;
+label "@@/dev/sda@@" (in hddtemp label) - HDD ('/dev/sda' in example) temperature&#xd;
+label "$net" - download and upload speed, KB/s. You may also specify the number of devices (1 or 2) - without their names. And you may specify network device: something like @@eth0@@&#xd;
+label "$netdev" - current network device&#xd;
+label "$bat" - battery charge, %. Battery device may be set below. File ("/sys/class/power_supply/BAT0/capacity" by default) must contain only battery charge in percent&#xd;
+label "$ac" - status AC device. Return (*) if AC device is online or ( ) if offline. AC device may be set below. FIle ("/sys/class/power_supply/AC/online" by default) must contain '1' if AC is online&#xd;
+&#xd;
+Label order will changed if you change slider position. HTML tags in label work normally.&#xd;
+Attention: you don't may set to show $cpu in swap label for example. $cpu will work only in cpu label.&#xd;
+&#xd;
+INSTALL&#xd;
+plasmapkg -i py-text-monitor-1.3.4.plasmoid&#xd;
+ATTENTION: gpu, gputemp and hddtemp labels require Extended Systemmonitor dataengine ([url]http://kde-look.org/content/show.php?content=158773[/url])!&#xd;
+&#xd;
+Dependencies:&#xd;
+kdebindings-python2&#xd;
+ext-sysmon (for GPU, GPU temp and HDD temp labels)&#xd;
+lm_sensors (for definition temperature device)&#xd;
+net-tools (for definition network device)</summary>
+  <changelog>Ver.1.4.0:&#xd;
++ notifications&#xd;
+Ver.1.3.6:&#xd;
+* fix bugs&#xd;
+Ver.1.3.5:&#xd;
+* fix bug with definition network device&#xd;
+Ver.1.3.4:&#xd;
+- select number of network devices&#xd;
++ double click event&#xd;
+* yet another plasma crash&#xd;
+Ver.1.3.3:&#xd;
+* edited reading temperature device&#xd;
+Ver.1.3.2b:&#xd;
+* fixed plasma crash&#xd;
+Ver.1.3.2:&#xd;
++ added GPU temp, GPU usage, HDD temp, HDD usage&#xd;
++ added CPU usage and CPU clock for each cores&#xd;
+* bug fixes, optimization and refactoring&#xd;
+Ver.1.2.2:&#xd;
++ added tooltip to lineEdit&#xd;
+Ver.1.2.1:&#xd;
++ if battery doesn't exist return 'off'&#xd;
++ if ac doesn't exist return '(?)'&#xd;
+Ver.1.2.0:&#xd;
++ added $ac label - return (*) if AC is online or ( ) if offline&#xd;
++ added battery and ac device configurations&#xd;
++ error cheking&#xd;
+* $bat now reading from /sys/*&#xd;
+Ver.1.1.4:&#xd;
+* changed parsing acpi output (battery-label)&#xd;
+Ver.1.1.3:&#xd;
++ added font weight&#xd;
+* edited font setup line. Now setup for font family works normaly&#xd;
+* small bug fix&#xd;
+Ver.1.1.2:&#xd;
++ added cpu clock label&#xd;
++ added function to update network device (100*time_interval)&#xd;
++ changed update sliders&#xd;
+Ver.1.1.1:&#xd;
++ added label $swapmb, $memmb, $netdev, @@netdev=...@@&#xd;
+* widget consists of several labels&#xd;
+* configuration interface&#xd;
+- some bugs&#xd;
+Ver.1.0:&#xd;
+First release</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m157124-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/157124-1.png</previewBig>
+  <payload>https://github.com/arcan1s/pytextmonitor/releases/download/V.1.4.0/py-text-monitor-1.4.0.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Enhanced Battery Monitor</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=viranch">viranch</author>
+  <homepage>http://opendesktop.org/content/show.php?content=153981</homepage>
+  <licence>1</licence>
+  <version>0.9.1</version>
+  <rating>67</rating>
+  <downloads>694</downloads>
+  <installedfile>/tmp/kde-victor///153981-enhanced-battery.plasmoid</installedfile>
+  <id>153981</id>
+  <releasedate>2012-09-23</releasedate>
+  <summary>This is the enhanced battery monitor that for now shows the battery\'s remaining time apart from the features in the default plasmoid.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m153981-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/153981-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/153981-enhanced-battery.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>facebook-qml</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=bulldog98">bulldog98</author>
+  <homepage>http://opendesktop.org/content/show.php?content=140920</homepage>
+  <licence>1</licence>
+  <version>0.2.1</version>
+  <rating>40</rating>
+  <downloads>292</downloads>
+  <installedfile>/tmp/kde-victor///140920-facebook-qml.plasmoid</installedfile>
+  <id>140920</id>
+  <releasedate>2012-03-08</releasedate>
+  <summary>This is an facebook plasmoid based on qml. So you need KDE SC 4.7 or later to run it.
+
+Also you need to have the qtwebkit-qmlplugin installed
+
+Hope you enjoy it.</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/140920-facebook-qml.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>SimpleClock</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=csslayer">csslayer</author>
+  <homepage>http://opendesktop.org/content/show.php?content=142938</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>66</rating>
+  <downloads>424</downloads>
+  <installedfile>/tmp/kde-victor///142938-SimpleClock.plasmoid</installedfile>
+  <id>142938</id>
+  <releasedate>2011-06-23</releasedate>
+  <summary>This is just for akonadi hater.&#xd;
+KDE default time-related widget (contains calendar widget) will start akonadi, no matter you use kdepim or not.&#xd;
+&#xd;
+Seems there is no such a simple widget that simply support display date and time.&#xd;
+&#xd;
+Written in QML&#xd;
+&#xd;
+Requires KDE &amp;gt;= 4.7, because PlasmaCore.Tooltip is used.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m142938-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/142938-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/142938-SimpleClock.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Time Keeper</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=niceway">niceway</author>
+  <homepage>http://opendesktop.org/content/show.php?content=159345</homepage>
+  <licence>1</licence>
+  <version>0.5.1</version>
+  <rating>84</rating>
+  <downloads>1639</downloads>
+  <installedfile>/tmp/kde-victor///159345-timekeeper.plasmoid</installedfile>
+  <id>159345</id>
+  <releasedate>2013-09-06</releasedate>
+  <summary>This plasmoid provides a clock and a calendar functions via steampunk interface.&#xd;
+It is written entirely in QML + JavaScript.&#xd;
+&#xd;
+Video preview: http://vimeo.com/69154043. &#xd;
+&#xd;
+Browse Source: https://github.com/Joker/timekeeper. &#xd;
+&#xd;
+Graphics in this plasmoid orginate from Steampunk orrery &#xd;
+http://lightquick.co.uk/downloads/steampunk-orrery-xwidget.html&#xd;
+For the Moon graphics from Luna QML were used. &#xd;
+http://kde-look.org/content/show.php?content=140204&#xd;
+&#xd;
+Marble Virtual Globe is required.&#xd;
+Quote:for Gentoo:&#xd;
+ emerge marble&#xd;
+&#xd;
+for Arch:&#xd;
+ pacman -S kdeedu-marble&#xd;
+&#xd;
+for Kubuntu 13.04:&#xd;
+ sudo apt-get install marble marble-plugins &#xd;
+ sudo mkdir -p /usr/lib/qt4/imports/&#xd;
+ sudo ln -s /usr/lib/kde4/plugins/marble/15/org /usr/lib/qt4/imports/org &#xd;
+&#xd;
+Installing:&#xd;
+&#xd;
+ plasmapkg -i timekeeper.plasmoid&#xd;
+&#xd;
+for Arch AUR: &#xd;
+ https://aur.archlinux.org/packages/kdeplasma-applets-time-keeper/&#xd;
+&#xd;
+for ROSA &amp;amp; OpenMandriva.&#xd;
+ urpmi plasma-applet-timekeeper&#xd;
+ (https://abf.rosalinux.ru/openmandriva/plasma-applet-timekeeper)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m159345-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/159345-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/159345-timekeeper.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Kosmoid (Kopete Plasmoid, transparent)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=causa-prima">causa-prima</author>
+  <homepage>http://opendesktop.org/content/show.php?content=152348</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>76</downloads>
+  <installedfile>/tmp/kde-victor///152348-Kosmoid_0.1.zip</installedfile>
+  <id>152348</id>
+  <releasedate>2012-07-13</releasedate>
+  <summary>Kosmoid - a plasmoid for showing your kopete contacts in a fully transparent window&#xd;
+&#xd;
+0. Overview&#xd;
+1. How it works&#xd;
+2. Dependencies&#xd;
+3. How to install/uninstall&#xd;
+&#xd;
+&#xd;
+0. Overview&#xd;
+&#xd;
+Kosmoid is a simple python applet based on KopetePlasma by Giancarlo Fringuello, &#xd;
+which shows your kopete contacts in a fully transparent window and can start a conversation by clicking on a contact.&#xd;
+&#xd;
+This is my first plasmoid attempt, so bugs might occur :)&#xd;
+&#xd;
+&#xd;
+1. How it works&#xd;
+&#xd;
+The contacts are retrieved by the dbus interface to kopete, so kopete must be running.&#xd;
+If kopete is not running or offline, there will be no contact list.&#xd;
+&#xd;
+&#xd;
+2. Dependencies&#xd;
+&#xd;
+- kde4.*&#xd;
+- python (used v 2.7) &#xd;
+- python bindings for dbus&#xd;
+- python bindings for qt4/kde4&#xd;
+&#xd;
+&#xd;
+3. How to install/uninstall&#xd;
+&#xd;
+- To install you simply need to type:&#xd;
+&#xd;
+	plasmapkg -i Kosmoid_[version].zip&#xd;
+&#xd;
+- To uninstall:&#xd;
+&#xd;
+	plasmapkg -r Kosmoid</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m152348-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/152348-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/152348-Kosmoid_0.1.zip</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>plasmoid-hwmon</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=redhatlinux10">redhatlinux10</author>
+  <homepage>http://opendesktop.org/content/show.php?content=158694</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>53</rating>
+  <downloads>177</downloads>
+  <installedfile>/tmp/kde-victor///158694-plasmoid-hwmon.plasmoid</installedfile>
+  <id>158694</id>
+  <releasedate>2013-05-22</releasedate>
+  <summary>this is a plasmoid for KDE. it can monitor cpu and nvidia video card temperatures for you recently. nvidia-smi command is run for detecting nvidia video card temperature, so if you\'d like to monitor it, you should make sure nvidia-smi command is in your path.&#xd;
+some machine's motherboard doesn't report cpu temperature to operating system and this plasmoid can not retrieve cpu temperature from acpi, in this situation,this plasmoid will try to read cpu temperature from sensors command, so you must have finished the sensors' configuration with sensors-detect command.&#xd;
+installation:&#xd;
+download the file plasmoid-hwmon.plasmoid and save it to any directory you like.&#xd;
+run the following command to install this plasmoid:&#xd;
+plasmapkg -i /path/to/plasmoid-hwmon.plasmoid&#xd;
+&#xd;
+&#xd;
+if you have already installed this plasmoid,run the following command to update this plasmoid:&#xd;
+plasmapkg -u /path/to/plasmoid-hwmon.plasmoid, then remove this plasmoid from panel and add it again.&#xd;
+&#xd;
+&#xd;
+TODO:&#xd;
+&#xd;
+support ati video card temperature monitor.&#xd;
+&#xd;
+if you encounter any problem while using this plasmoid, you can check 'enable trace' in configuration window, then wait for about 9 seconds( 3 times of default update period), and then email this file '/tmp/net.ubuntudaily.hwmon.trace.log' to me, of cource, you should also describe what's the problem.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m158694-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/158694-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/158694-plasmoid-hwmon.plasmoid</payload>
+  <status>updateable</status>
+ </stuff>
+ <stuff category="">
+  <name>CPU temperature meter</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=hipersayanx">hipersayanx</author>
+  <homepage>http://opendesktop.org/content/show.php?content=159200</homepage>
+  <licence>1</licence>
+  <version>1.0.0</version>
+  <rating>53</rating>
+  <downloads>128</downloads>
+  <installedfile>/tmp/kde-victor///159200-cpu-temperature-meter.plasmoid</installedfile>
+  <id>159200</id>
+  <releasedate>2013-06-18</releasedate>
+  <summary>A simple CPU temperature meter plasmoid written in QML.&#xd;
+Ported from http://kde-look.org/content/show.php?content=135310.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m159200-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/159200-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/159200-cpu-temperature-meter.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Minimal Clock</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=flak37">flak37</author>
+  <homepage>http://opendesktop.org/content/show.php?content=156715</homepage>
+  <licence>1</licence>
+  <version>0.12</version>
+  <rating>76</rating>
+  <downloads>1164</downloads>
+  <installedfile>/tmp/kde-victor///156715-minimal_clock.plasmoid</installedfile>
+  <id>156715</id>
+  <releasedate>2013-04-15</releasedate>
+  <summary>A minimalistic clock with configurable font and text color.&#xd;
+&#xd;
+Font in the screenshot (optional) : http://www.dafont.com/geo-sans-light.font&#xd;
+&#xd;
+Wallpaper in the screenshot : http://interfacelift.com/wallpaper/details/3170/baros_maldives.html &#xd;
+&#xd;
+Blog post:&#xd;
+http://hashpling.wordpress.com/2013/02/03/a-minimal-clock-plasmoid/&#xd;
+&#xd;
+*The next version will follow 12/24 hr KDE user locale settings, but needs a plasma bugfix that will be included only in KDE 4.13. So next release will come only after 4.13 is released</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m156715-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/156715-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/156715-minimal_clock.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Fading Calendar</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=cauch">cauch</author>
+  <homepage>http://opendesktop.org/content/show.php?content=124153</homepage>
+  <licence>1</licence>
+  <version>0.1.4</version>
+  <rating>84</rating>
+  <downloads>928</downloads>
+  <installedfile>/tmp/kde-victor///124153-fading-calendar.plasmoid</installedfile>
+  <id>124153</id>
+  <releasedate>2010-09-26</releasedate>
+  <summary>A simple plasmoid displaying the days of the calendar in one column, with several fading options.&#xd;
+No mouse or keyboard interactions.&#xd;
+Quite useless, only intended to decorate the desktop.&#xd;
+&#xd;
+update version 0.1.1&#xd;
+A new option: &amp;quot;circle shape&amp;quot; was been added.&#xd;
+The configuration is however a bit tricky: the general option &amp;quot;origin&amp;quot; defines the center of the circle, and the x position should then be negative (let's say -600). The size of the rectangle and the text horizontal shift should then be higher to appear on the screen (let's say 630 and 640).&#xd;
+Space between rectangle turns out to be useless in this &amp;quot;circle&amp;quot; configuration, and you have to play with &amp;quot;angle&amp;quot; and &amp;quot;rectangle width&amp;quot; to get a proper plain background.&#xd;
+&#xd;
+Todo list:&#xd;
+* \&amp;quot;right side of the screen\&amp;quot; option&#xd;
+* other options</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m124153-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/124153-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/124153-fading-calendar.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Distribution Logo Plasmoid</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=tosta">tosta</author>
+  <homepage>http://opendesktop.org/content/show.php?content=153560</homepage>
+  <licence>2</licence>
+  <version>1.0</version>
+  <rating>56</rating>
+  <downloads>88</downloads>
+  <installedfile>/tmp/kde-victor///153560-distribution-logo.plasmoid</installedfile>
+  <id>153560</id>
+  <releasedate>2012-08-23</releasedate>
+  <summary>A simple QML plasmoid to display the distribution logo on the desktop. Works with any distro that provides /usr/share/pixmaps/distribution-logo.svg.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m153560-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/153560-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/153560-distribution-logo.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Simple Alarm Clock</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=F1ash">F1ash</author>
+  <homepage>http://opendesktop.org/content/show.php?content=151830</homepage>
+  <licence>1</licence>
+  <version>1.7</version>
+  <rating>53</rating>
+  <downloads>613</downloads>
+  <installedfile>/tmp/kde-victor///151830-kde-plasma-alarm-clock.zip</installedfile>
+  <id>151830</id>
+  <releasedate>2013-02-01</releasedate>
+  <summary>Simple AlarmClock plasmoid. Support list of alarms,&#xd;
+custom sound and message for each alarm node. (Works without Akonadi).</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m151830-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/151830-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/151830-kde-plasma-alarm-clock.zip</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>MPD plasma client</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=grozotkh">grozotkh</author>
+  <homepage>http://opendesktop.org/content/show.php?content=118402</homepage>
+  <licence>1</licence>
+  <version>0.4</version>
+  <rating>80</rating>
+  <downloads>957</downloads>
+  <installedfile>/tmp/kde-victor///118402-MPD-plasma-client.plasmoid</installedfile>
+  <id>118402</id>
+  <releasedate>2010-04-25</releasedate>
+  <summary>MPD plasma client - it small simply plasmoid, written on python, which controls mpd server.&#xd;
+There are only the following functions: previous/next song, play/pause, stop.&#xd;
+&#xd;
+You can find fresh version on mercurial repo. Just run:&#xd;
+hg clone http://bitbucket.org/memnek/mpd-plasma-client/&#xd;
+and &amp;quot;plasmapkg -i mpd-plasma-client/&amp;quot; to install&#xd;
+&#xd;
+Browse source:http://bitbucket.org/memnek/mpd-plasma-client/src&#xd;
+&#xd;
+INSTALL&#xd;
+Go to your download directory and run:&#xd;
+Quote:&#xd;
+plasmapkg -i MPD-plasma-client.plasmoid&#xd;
+&#xd;
+If you have old version, delete it:&#xd;
+Quote:&#xd;
+plasmapkg -r MPD-plasma-client&#xd;
+&#xd;
+&#xd;
+If you have a problem, please run:&#xd;
+Quote:&#xd;
+plasmoidviewer MPD-plasma-cient.plasmoid&#xd;
+&#xd;
+and send output to me. It help to fix bugs.&#xd;
+&#xd;
+I finished popup dialog with song info and now I'll trying to add features which you asked (volume, song info etc.)&#xd;
+&#xd;
+P.S sorry for my english =)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m118402-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/118402-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/118402-MPD-plasma-client.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>plasma_pyweather</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=rangalo">rangalo</author>
+  <homepage>http://opendesktop.org/content/show.php?content=110137</homepage>
+  <licence>1</licence>
+  <version>1.7</version>
+  <rating>90</rating>
+  <downloads>5544</downloads>
+  <installedfile>/tmp/kde-victor///110137-plasma_pyweather.plasmoid</installedfile>
+  <id>110137</id>
+  <releasedate>2010-07-09</releasedate>
+  <summary>This is an extremely simple plasmoid written in python. It fetches weather information from google.com. It lets you configure the location and unit of the weather information. &#xd;
+&#xd;
+Please feel free to send me bug reports and / or suggestions for improvement.&#xd;
+&#xd;
+&#xd;
+INSTALL:&#xd;
+$ plasmapkg -i plasma_pyweather.plasmoid&#xd;
+&#xd;
+UPDATE:&#xd;
+I used the weather icons from here.&#xd;
+http://www.kde-look.org/content/show.php/Weather+Icons?content=84533&#xd;
+&#xd;
+So, the credit goes to the original artist, painkiller10.&#xd;
+&#xd;
+Note: I have implemented only for certain number of weather conditions, if you see a question mark image as weather conditions, please let me know, which condition it is and I will add the image for it.&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m110137-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/110137-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/110137-plasma_pyweather.plasmoid</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

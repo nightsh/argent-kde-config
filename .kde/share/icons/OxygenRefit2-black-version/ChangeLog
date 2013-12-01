@@ -1,0 +1,76 @@
+2.0.0:
+
+- added action icons for file-roller
+- different icons for bookmark_add and bookmarks_list_add
+- more stock icons
+- new stock_timezone icon
+- new synaptic icons:
+	package-available
+	package-upgrade
+	package-downgrade
+	package-installed-updated
+- new/better battery icons
+- new links for compatibility:
+	gnome-power-preferences -> gnome-power-manager
+	ontv -> nvtv
+	gqview -> geeqie
+	deluge -> deluge-torrent
+- new audio-x-monkey mimetype*
+- new audio-x-ms-wma mimetype*
+- new preferences-system
+- new help-browser icon*
+- new filezilla icon*
+- new xmms icon*
+- Arghh ... Why did we have an UFO for gl117?
+- new gl117 icon [an airplane this time!]*
+- added internet-explorer (7) icon [for use with ies4linux]*
+- rename jidgo-icon to jigdo-icon*
+- new jigdo icon*
+- new nautilus-cd-burner icon*
+- new netscape icon*
+- new widelands icon*
+
+* Those Icons are free for non-commercial use, but not open-source.
+
+1.99.1:
+
+- Fix Icon Sizing
+- Add 64x64, 72x72 and 92x92
+- emblem-art added
+- emblem-camera added
+- emblem-certified added
+- emblem-cool added
+- emblem-danger added
+- emblem-desktop added
+- emblem-draft added
+- emblem-multimedia added
+- emblem-note added
+- emblem-ohno added
+- emblem-ok added
+- emblem-people added
+- emblem-personal added
+- gnome-fs-executable added
+- gnome-fs-fifo added
+- icons for full trash added
+- lock icons added
+- special folder icons added
+
+1.99.0:
+
+- Removed (almost) all drop-shadows
+- Split Evolution Icons [apps-evolution]
+- Evolution Icon Set is now 90% Complete
+- GTK Stock Icon Set is now 85% Complete
+- Split App Icons
+	- apps -> contains icons from the tango spec
+	- apps-extra -> contains the other icons
+- Replaced some icons by semi-selfmade [actions | mimetypes]
+- Added Icons for the GConf-Editor*
+- Tweaked Tar[.*] Mimetypes
+- Two new Category Icons
+- Use different Icons for Firefox and Iceweasel
+- Added Open Folder Icons
+- Updated CREDITS
+
+* For the GConf Editor you need my patch from here:
+http://bugzilla.gnome.org/attachment.cgi?id=109062

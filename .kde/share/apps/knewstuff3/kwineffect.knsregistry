@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Maximize</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mgraesslin">mgraesslin</author>
+  <homepage>http://opendesktop.org/content/show.php?content=154900</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>61</rating>
+  <downloads>600</downloads>
+  <installedfile>/tmp/kde-victor///154900-maximizeeffect.kwinscript</installedfile>
+  <id>154900</id>
+  <releasedate>2012-10-26</releasedate>
+  <summary>Animation for a window going to maximize/restore from maximize</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/154900-maximizeeffect.kwinscript</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

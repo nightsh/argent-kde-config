@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Simple Root Actions Menu</name>
+  <providerid>http://download.kde.org/khotnewstuff/servicemenu/servicemenu.xml</providerid>
+  <author>pejakm</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>3.0.0</version>
+  <rating>82</rating>
+  <downloads>5892</downloads>
+  <installedfile>/home/victor/.kde/share/apps/servicemenu-download//72762-sram-3.0.0.tar.gz</installedfile>
+  <id>72762</id>
+  <releasedate>2013-10-06</releasedate>
+  <summary>This is menu that I use, I thought it would be useful for some people so I decided to share it.&#xd;
+&#xd;
+It is very simple, it contains 8 menu entries:&#xd;
+-delete as root ("sram_d.desktop", for all files and folders)&#xd;
+-edit as root ("sram_e.desktop", for all text files)&#xd;
+-open as root ("sram_o.desktop", for all folders)&#xd;
+-run as root ("sram_r.desktop", for all executable files)&#xd;
+-backup as root ("sram_b.desktop", for all files)&#xd;
+-rename as root ("sram_rn.desktop", for all files)&#xd;
+-chmod as root ("sram_cm.desktop", for all files and folders)&#xd;
+-chown as root ("sram_co.desktop", for all files and folders)&#xd;
+&#xd;
+From version 1.3 "Simple Root Actions Menu" comes packed within shell script file - Installer script. The installer gives you ability to define various parameters of the installation, like whether you want to install the menu for konqueror or dolphin, what text editor to use, whether to use kdesu or gksu, etc. Version 2 (and greater) supports KDE 4. Version 3 (and greater) dropped support for KDE3.&#xd;
+&#xd;
+[b]Installation[/b]&#xd;
+&#xd;
+Download and unpack the content and run "sram_install" in your shell ("./sram_install")&#xd;
+Follow menu instructions.&#xd;
+Or you can use operands "-i" for installation or "-u" for uninstallation directly.&#xd;
+&#xd;
+Be sure to read [b]README[/b] file first!!!&#xd;
+&#xd;
+&#xd;
+[b]Translations[/b]&#xd;
+&#xd;
+You can send me [b]translations[/b] to your language if you want, so I can update the menus. Also comments or suggestions are welcome.&#xd;
+&#xd;
+Current translations:&#xd;
+&#xd;
+* Arabic (by Muhammad Negm)&#xd;
+* Bosnian&#xd;
+* Bulgarian (by chichovoto)&#xd;
+* Catalan (by Dani Parcerisas)"&#xd;
+* Chinese (by rickz)&#xd;
+* Croatian&#xd;
+* Czech (by mikefly)&#xd;
+* Dutch (by Jelle Van de Velde)&#xd;
+* Farsi (by Bardia Daneshvar)&#xd;
+* French (by Bruno Patri)&#xd;
+* Friulian (by Cristiano Dri)&#xd;
+* Galician (by kax) &#xd;
+* German (by Andreas Butti)&#xd;
+* Greek (by Alexis Panagiotopoulos)&#xd;
+* Hungarian (by zsohu)&#xd;
+* Italian (by Marco Rocca)&#xd;
+* Japanese (by Yuya Tanaka)&#xd;
+* Polish (by Tomasz Dunal)&#xd;
+* Portuguese (by Victor Cardoso)&#xd;
+* Portuguese - Brazilian (by Alexey Antonyuk)&#xd;
+* Russian (by Alexey Antonyuk)&#xd;
+* Slovenian (by Mihael Simonic)&#xd;
+* Serbian&#xd;
+* Spanish (by figue)&#xd;
+* Swedish (by Jan-Helge FagerstrÃÂ¶m)&#xd;
+* Turkish (by Hakan Duran)&#xd;
+* Ukrainian (by Sergiy Yaremenko)&#xd;
+&#xd;
+Thanks to all translators!&#xd;
+&#xd;
+--------------------------------------&#xd;
+[u]Strings for translation:[/u]&#xd;
+&#xd;
+X-KDE-Submenu[[color=#777777]xx[/color]]=[i]root menu[/i]&#xd;
+Name[[color=#777777]xx[/color]]=[i]Delete as root[/i]&#xd;
+Name[[color=#777777]xx[/color]]=[i]Edit as root[/i]&#xd;
+Name[[color=#777777]xx[/color]]=[i]Open as root[/i]&#xd;
+Name[[color=#777777]xx[/color]]=[i]Run as root[/i]&#xd;
+Name[[color=#777777]xx[/color]]=[i]Backup as root[/i]&#xd;
+Name[[color=#777777]xx[/color]]=[i]Rename as root[/i]&#xd;
+&#xd;
+("[color=#777777]xx[/color]" is your language code abbreviation)&#xd;
+--------------------------------------&#xd;
+&#xd;
+[b]Notes[/b]&#xd;
+&#xd;
+(none for now)</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/servicemenu/previews/m72762-1.png</preview>
+  <previewBig>http://download.kde.org/khotnewstuff/servicemenu/previews/m72762-1.png</previewBig>
+  <payload>http://download.kde.org/khotnewstuff/servicemenu/downloads/72762-sram-3.0.0.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Attach to thunderbird</name>
+  <providerid>http://download.kde.org/khotnewstuff/servicemenu/servicemenu.xml</providerid>
+  <author>danux</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>1.1.1</version>
+  <rating>75</rating>
+  <downloads>1525</downloads>
+  <installedfile>/home/victor/.kde/share/apps/servicemenu-download//122832-thunderbird_attachment.desktop</installedfile>
+  <id>122832</id>
+  <releasedate>2011-12-05</releasedate>
+  <summary>Tired of searching a SIMPLE Servicemenu to just attach any file (or file group) to a mail in Thunderbird, I decided to write my own service.&#xd;
+&#xd;
+If you use Mandriva or OpenSuSE, put it under:&#xd;
+~/.kde4/share/kde4/services&#xd;
+&#xd;
+On Fedora and Kubuntu Oneiric under:&#xd;
+ ~/.kde/share/kde4/services&#xd;
+&#xd;
+If other, I think the correct path is something like:&#xd;
+~/.kde4/share/apps/dolphin/services&#xd;
+&#xd;
+If you want the Thunderbird icon, you should edit the line "Icon" like this "Icon=/usr/lib/thunderbird/chrome/icons/default/default16.png". If you use 64bits version, you should look in /usr/lib64/thunderbird_version/chrome/icons/default/default16.png.&#xd;
+&#xd;
+It is fully proven to work in a 64bits system, KDE 4.5, TB 3.0.7. Since the last modifications, i don't know if it's still working on 32bits systems, please report your experiences. PLEASE ALWAYS report thunderbird version, system architecture and distro.&#xd;
+&#xd;
+&#xd;
+Should work!&#xd;
+&#xd;
+&#xd;
+PS: Don't forget to try my other servicemenu for compressing before sending</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/servicemenu/previews/m122832-1.png</preview>
+  <previewBig></previewBig>
+  <payload>http://download.kde.org/khotnewstuff/servicemenu/downloads/122832-thunderbird_attachment.desktop</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Checksum</name>
+  <providerid>http://download.kde.org/khotnewstuff/servicemenu/servicemenu.xml</providerid>
+  <author>Seniazi</author>
+  <homepage></homepage>
+  <licence></licence>
+  <version>0.03</version>
+  <rating>58</rating>
+  <downloads>322</downloads>
+  <installedfile>/home/victor/.kde/share/apps/servicemenu-download//154999-154999-154999-sha256sum.desktop</installedfile>
+  <id>154999</id>
+  <releasedate>2012-11-03</releasedate>
+  <summary>A simple desktop file that adds sha512, sha256, sha1 and md5 checksum via right click on any file.&#xd;
+Derived from http://kde-look.org/content/show.php/Check+md5sum+within+Dolphin?content=149411&#xd;
+by oshunluvr&#xd;
+&#xd;
+Needs libnotify-tools and of course the respective checksum programs, which should be installed by default on most distributions.</summary>
+  <changelog></changelog>
+  <preview>http://download.kde.org/khotnewstuff/servicemenu/previews/m154999-1.png</preview>
+  <previewBig></previewBig>
+  <payload>http://download.kde.org/khotnewstuff/servicemenu/downloads/154999-154999-154999-sha256sum.desktop</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

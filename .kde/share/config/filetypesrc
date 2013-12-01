@@ -1,0 +1,8 @@
+[EmbedSettings]
+embed-application/pdf=false
+embed-application/vnd.oasis.opendocument.text=false
+embed-application/x-bittorrent=false
+embed-image/jpeg=false
+embed-inode/directory=false
+embed-video/3gpp=false
+embed-video/mp4=false

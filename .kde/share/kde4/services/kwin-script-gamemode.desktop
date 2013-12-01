@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Game Mode
+Comment=Makes certain windows block compositing depending on their fullscreen state
+Icon=preferences-system-windows-script-test
+
+X-Plasma-API=javascript
+X-Plasma-MainScript=code/main.js
+
+X-KDE-PluginInfo-Author=Thomas Lübking
+X-KDE-PluginInfo-Email=thomas.luebking@gmail.com
+X-KDE-PluginInfo-Name=gamemode
+X-KDE-PluginInfo-Version=1.0
+
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-ServiceTypes=KWin/Script
+Type=Service

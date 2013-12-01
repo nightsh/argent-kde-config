@@ -1,0 +1,21 @@
+0.4 - 05/02/12
+==============
+- Added settings for vertical/horizontal layout
+- Starting a task stops the current one automatically
+
+0.3 - 30/01/11
+==============
+- Added changing task time manually. Patch by Tomás Teijeiro Campo
+
+0.2 - 09/06/10
+==============
+- Added settings to change task colors
+- Added 'Reset Timer' menu item
+- Edit boxes are now the same size as buttons
+- Pressing Esc while editing cancels editing
+
+0.1 - 07/06/10
+==============
+- Initial release
+
+

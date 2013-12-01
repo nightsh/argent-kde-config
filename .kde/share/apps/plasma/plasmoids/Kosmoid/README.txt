@@ -1,0 +1,53 @@
+Kosmoid - a plasmoid for showing your kopete contacts
+
+0. Overview
+1. How it works
+2. Dependencies
+3. How to install/uninstall
+
+
+0. Overview
+
+Kosmoid is a simple python applet based on KopetePlasma by Giancarlo Fringuello, 
+which shows your kopete contacts and can start a conversation by clicking on a contact.
+
+This is my first plasmoid attempt, so bugs might occur :)
+
+
+1. How it works
+
+The contacts are retrieved by the dbus interface to kopete, so kopete must be running.
+If kopete is not running or offline, there will be no contact list.
+
+
+2. Dependencies
+
+- kde4.*
+- python (used v 2.7) 
+- python bindings for dbus
+- python bindings for qt4/kde4
+
+
+3. How to install/uninstall
+
+- To install you simply need to type:
+
+	plasmapkg -i Kosmoid_[version].zip
+
+- To uninstall:
+
+	plasmapkg -r Kosmoid
+
+- If you modify this plasmoid, to have an installable package you have to do:
+
+	zip -r ../Kosmoid.zip .  (into the main directory)
+
+
+Author:
+
+Sebastian Schultz
+
+mail: sebastian2.schultz (at) st.ovgu (dot) de
+
+
+See LICENSE.txt

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Pidgin Emoticons for Kopete</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=gemidjy">gemidjy</author>
+  <homepage>http://opendesktop.org/content/show.php?content=70360</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>56</rating>
+  <downloads>798</downloads>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/angry.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/angel.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/go-away.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/drool.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/in-love.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/at-wits-end.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/glasses-cool.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/glasses-nerdy.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/thinking.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/weep.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/arrogant.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/crying.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/call-me.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/laugh.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/mad-tongue.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/waiting.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/mean.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/tongue.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/devil.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/hypnotized.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/doh.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/bye.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/cowboy.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/eyeroll.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/sarcastic.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/rotfl.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/silly.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/sick.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/love-over.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/sad.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/hug-left.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/nailbiting.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/question.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/loser.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/smile-big.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/sleepy.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/desire.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/party.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/quiet.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/embarrassed.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/emoticons.xml</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/confused.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/neutral.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/shock.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/smile.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/time-out.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/lashes.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/on-the-phone.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/sweat.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/lying.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/wink.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/kiss.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/clap.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/clown.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/yawn.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///pidgin4kopete/</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///</installedfile>
+  <id>70360</id>
+  <releasedate>2007-11-24</releasedate>
+  <summary>I wrote a script to convert the Pidgin default emoticon theme in Kopete one :) I like Pidgin smileys. &#xd;
+&#xd;
+Report if this try is not success. It works on my Kopete though.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m70360-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/70360-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/70360-pidgin4kopete.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Kadu Penguins</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=lunaszek">lunaszek</author>
+  <homepage>http://opendesktop.org/content/show.php?content=66357</homepage>
+  <licence>1</licence>
+  <version>1.8</version>
+  <rating>86</rating>
+  <downloads>7652</downloads>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/serducho.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/krzyk.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/beczy.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/olaboga.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/unlove.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/dobani.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/oczko.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/3m_sie.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/cwaniak.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/paker.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zlezkawoku.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/bukiet.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zab.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/dresiarz.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/buja_w_oblokach.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zeby.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/muza.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/star.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/glupek2.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/note.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/czytaj.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zmeczony.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/wykrzyknik.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/aparat.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/rotfl.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/tak.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/kotek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/lol2.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/mniam.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/soczek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/co.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/je_pizze.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zawstydzony.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/prezent.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/w8.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/hura.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/uoeee.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/papa.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/gool.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/okok.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/killer.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/wnerw.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/ziew.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/kwiatek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/cisza.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/slonko.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/tancze.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/glaszcze.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/nauka.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/onajego.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/kawa.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/gra.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/milosc.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/ganja.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/usmiech.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/spie.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/snieg.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/placze.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/uscisk.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/mysli.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/prysznic.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/chytry.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/pomocy.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/wc.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/co_jest.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/krecka_dostal.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/spadaj.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zniesmaczony.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/wanna.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/spioch.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/krzywy.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/lightbulb.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/dokuczacz.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/yyyy.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zacieszacz.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/peace.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/boisie.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/jem.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/drink.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/klotnia.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/sex.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/nie_powiem.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/diabelek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/pada.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/roza.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zakochany.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/papa2.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/telefon.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/okularnik.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/plotki.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/8p.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/puknijsie.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/glupek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/figielek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/gazeta.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/stres.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/chatownik.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/uczen.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/hahaha.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/bije.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/msg.wav</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/tuptup.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/milczek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/jezyk.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/emoticons.xml</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/plask.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/pies.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/luzik.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/oklasky.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/foch.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/pytajnik.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/dupa.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/bat.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/szok.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/piwko2.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/piwo.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/palacz.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/boks.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/aniolek.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/obiad.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zakupy.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/nie.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/film.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/smutny.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zalamka.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/nerwus.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/jablko.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zegar.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/serduszka.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/bomb.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/wilted_rose.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/szampan.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/prosi.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/stop.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/usta.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/wysmiewacz.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/cmok.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/gafa.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/haha.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/buzki.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/bezradny.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/czarodziej.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/sciana.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/buziak.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/tort.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/zly.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/jezyk_oko.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/rzygi.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/pocieszacz.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/readme.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/hejka.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/list.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/paluszkiem.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/dostal.gif</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Kadu Penguins/</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///</installedfile>
+  <id>66357</id>
+  <releasedate>2010-08-07</releasedate>
+  <summary>Kadu Penguins for Kopete (www.kadu.net) :)&#xd;
+Supported emoticons: &#xd;
+- Gadu-Gadu 7.7 (100% compatibility)&#xd;
+- Kopete (100% compatibility)&#xd;
+- Tlen (90% compatibility)&#xd;
+- AIM (95% compatibility)&#xd;
+- ICQ 6 (95% compatibility)&#xd;
+- Skype (80% compatibility)&#xd;
+- MSN 7 (70% compatibility)&#xd;
+- Yahoo 7 (75% compatibility)&#xd;
+- QIP (40% compatibility)&#xd;
+- Bombus (jabber mobile client)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m66357-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/66357-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/66357-Kadu Penguins-1.8.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Adiumicons - Pidgin Emoticon Theme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=robotangel">robotangel</author>
+  <homepage>http://opendesktop.org/content/show.php?content=64816</homepage>
+  <licence>7</licence>
+  <version></version>
+  <rating>68</rating>
+  <downloads>1739</downloads>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/grin.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/bandit.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/wizard.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/love.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/devil.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/sick.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/kissing.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/angry.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/joyful.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/alien.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/wondering.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/sleeping.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/lol.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/unsure.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/angel.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/andy.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/surprised.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/policeman.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/wink.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/sideways.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/blushing.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/pinched.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/pouty.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/cool.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/whistling.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/heart.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/happy.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/w00t.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/sad.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/uncertain.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/tongue.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/smile.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/ninja.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/crying.png</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/theme</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///Adiumicons/</installedfile>
+  <installedfile>/home/victor/.kde/share/emoticons///</installedfile>
+  <id>64816</id>
+  <releasedate>2007-08-21</releasedate>
+  <summary>This is a "port" of the "Adiumicons" Emoticon Set by Oscar Gruno and Andrei Fedosjeenko. I just wrote a valid theme file for them so I could use them with Pidgin.&#xd;
+&#xd;
+Have fun!</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m64816-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/64816-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/64816-Pidgin-Adiumicons.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

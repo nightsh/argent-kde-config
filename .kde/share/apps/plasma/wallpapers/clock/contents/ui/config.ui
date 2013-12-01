@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ImageConfig</class>
+ <widget class="QWidget" name="ImageConfig">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>405</width>
+    <height>323</height>
+   </rect>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="3" column="0" colspan="3">
+    <widget class="QListView" name="clockWallpaperView">
+     <property name="minimumSize">
+      <size>
+       <width>300</width>
+       <height>220</height>
+      </size>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0">
+    <widget class="QLabel" name="positioningLabel">
+     <property name="text">
+      <string>Positioning:</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+     <property name="buddy">
+      <cstring>positioningCombo</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="colorLabel">
+     <property name="text">
+      <string>Color:</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+     <property name="buddy">
+      <cstring>colorButton</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1" colspan="2">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="KColorButton" name="colorButton">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="color">
+        <color>
+         <red>70</red>
+         <green>90</green>
+         <blue>130</blue>
+        </color>
+       </property>
+       <property name="defaultColor">
+        <color>
+         <red>70</red>
+         <green>90</green>
+         <blue>130</blue>
+        </color>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="spacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1" colspan="2">
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="KComboBox" name="positioningCombo">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <item>
+        <property name="text">
+         <string>Scaled</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Centered</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Scaled and Cropped</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Tiled</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Center Tiled</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Maxpect</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item>
+      <spacer name="spacer_2">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>187</width>
+         <height>17</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item row="4" column="0" colspan="3">
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="KPushButton" name="openButton">
+       <property name="text">
+        <string>Open...</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="getNewButton">
+       <property name="text">
+        <string>Get New Wallpapers...</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="KPushButton" name="uninstallButton">
+       <property name="text">
+        <string>Uninstall</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="2" column="1">
+    <widget class="QCheckBox" name="ampmCheck">
+     <property name="text">
+      <string>Use AM/PM</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>KPushButton</class>
+   <extends>QPushButton</extends>
+   <header>kpushbutton.h</header>
+  </customwidget>
+  <customwidget>
+   <class>KComboBox</class>
+   <extends>QComboBox</extends>
+   <header>kcombobox.h</header>
+  </customwidget>
+  <customwidget>
+   <class>KColorButton</class>
+   <extends>QPushButton</extends>
+   <header>kcolorbutton.h</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>positioningCombo</tabstop>
+  <tabstop>colorButton</tabstop>
+  <tabstop>clockWallpaperView</tabstop>
+  <tabstop>openButton</tabstop>
+  <tabstop>getNewButton</tabstop>
+  <tabstop>uninstallButton</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

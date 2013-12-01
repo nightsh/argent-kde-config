@@ -1,0 +1,8 @@
+[KSplash Theme: SteampunK]
+Name = SteampunK
+Description = Steam-Powered Linux KSplash
+
+Version = 3.0
+Author = Siarhei Kuchynski
+Homepage = siarhei.kuchynski@gmail.com
+Engine = KSplashX

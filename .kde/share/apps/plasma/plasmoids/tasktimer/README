@@ -1,0 +1,11 @@
+This is a very simple plasmoid to keep track of your time.
+
+Once you add some tasks, click on one to start timing. Red tasks are paused, green task is being timed.
+
+You can also reset, rename and delete tasks.
+
+Time is measured in hours:minutes:seconds
+
+The layout of the tasks can be changed to horizontal to let it fit in the controllbar of KDE.
+
+Enjoy!

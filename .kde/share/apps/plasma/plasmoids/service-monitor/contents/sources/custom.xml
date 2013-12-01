@@ -1,0 +1,20 @@
+<services>
+  <name>Custom Services</name>
+  <description>You can set up custom services which appear in this section. Use the "custom services" page in the configuration dialog.</description>
+  <service id="custom-352520">
+    <name>Demo Service</name>
+    <description>This is a demo service showing a configuration example</description>
+    <installcheck>ls /path/to/executable</installcheck>
+    <runningcheck>pidof executable</runningcheck>
+    <startcommand>/path/to/executable &amp;</startcommand>
+    <stopcommand>killall executable</stopcommand>
+  </service>
+  <service id="custom-666704">
+    <name>ISC-DHCP Server</name>
+    <description>isc-dhcp-server</description>
+    <installcheck>ls /usr/sbin/dhcpd</installcheck>
+    <runningcheck>pidof dhcpd</runningcheck>
+    <startcommand>kdesudo /etc/init.d/isc-dhcp-server start</startcommand>
+    <stopcommand>kdesudo /etc/init.d/isc-dhcp-server stop</stopcommand>
+  </service>
+</services>

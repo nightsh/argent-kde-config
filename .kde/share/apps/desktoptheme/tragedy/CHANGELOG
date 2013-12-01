@@ -1,0 +1,106 @@
+2.0.1
+=====
+-Thanks to Snowhog for bringing KDE 4.4 compatibility issues to my attention!
+-added lineedit.svg for 4.4 compatibility
+-fixed lancelot colors for 4.4 compatibility
+
+2.0
+===
+-polished & refined many elements
+
+1.0.2
+=====
+-Updated colors file to make the "cashew" less ugly while retaining readability of enlarged network & system monitor widget text.
+-Added CHANGELOG, THANKS, CREDITS, and INSTALL instructions.
+
+1.0.1
+=====
+-Added onoff_switch.svg
+-Updated lancelot background to match extender-background. Thanks for the suggestion Logscon! =)
+-Minor update to battery meter unavailable graphic.
+-Removed logout picture from shutdowndialog.svg. Previous version has been included as shutdowndialog-old.svg
+-Converted all files to svg (from svgz) for better compatibility with older versions of KDE4.
+-Updated colors file. Network monitor text should be readable now.
+
+1.0
+===
+-Created wallpaper image
+-Updated shutdowndialog.svgz
+-Minor update to clock number colors
+
+0.9.1
+=====
+-Clock should display properly for everyone now
+-Tweaked active text color (system monitor widget graphs)
+-Updated plot-background
+
+0.9
+===
+-Added calendar, shutdowndialog, fifteenpuzzle
+-Updated clock (fixed?), analog_meter (colors), pager (colors)
+-Updated colors file to TragedyBlack
+-Included KDE 4 color scheme (TragedyBlack.colors)
+
+0.8.4
+=====
+-Added viewitem, battery-oxygen
+-Tweaks to clock, button, lancelot/extender-button
+
+0.8.3
+=====
+-Attempt to fix big hand issue with clock.svgz
+-Clock artwork updated
+-Updated hover graphic in tasks.svgz
+
+0.8.2
+=====
+-New bar_meters artwork
+-Updated clock.svgz artwork
+-Replaced configuration-icons with Oxygen style
+-Reduced a number of file sizes
+-Included old numberless clock graphic (clock002.svgz)
+-Included old bar_meters with the green LEDs (bar_meter_horizontal002.svgz & bar_meter_vertical002.svgz)
+-Updated screenshot
+
+0.8.1
+=====
+-Update to bar_meters artwork.
+-bar_meters should work properly with all plasmoids now.
+-Added button.svgz
+-Minor update to colors file. (button text)
+
+0.8
+===
+-Credit goes to Patkos Csaba for suggesting many of these updates. Thanks Patkos!
+-Added configuration-icons, bar_meter_horizontal, bar_meter_vertical
+-Darkened inactive LEDs in tasks.svgz
+-clock.svgz updated
+
+0.7.1
+=====
+-Fixed opacity issue on focus button in tasks.svgz
+-Updated screenshots
+
+0.7
+===
+-Full Lancelot support added
+-scrollbar.svgz added
+-Many backgrounds have had their colors tuned
+-Multiple empty groups were discovered and removed in systemtray.svgz source
+-Expander arrows in tasks.svgz have been adjusted
+
+0.6.1
+=====
+-tasks.svg: Minor color adjustments, tiny panel resize fix
+
+-clock.svg: Updated hands, fixed to use mostly vector graphics, added slight transparency.
+
+-Added analog_meter, arrows, busywidget, and plot-background
+
+0.6
+===
+-Added new pager, system tray, krunner, kickoff, and misc backgrounds. 
+
+0.5
+===
+-Inital Release

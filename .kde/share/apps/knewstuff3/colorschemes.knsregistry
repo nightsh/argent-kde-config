@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Pink way oxygen cold</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=sead">sead</author>
+  <homepage>http://opendesktop.org/content/show.php?content=151122</homepage>
+  <licence>1</licence>
+  <version>1.1</version>
+  <rating>56</rating>
+  <downloads>53</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//151122-151122-PinkWayOxygenCold.colors</installedfile>
+  <id>151122</id>
+  <releasedate>2012-05-26</releasedate>
+  <summary>A more lighter color scheme based on Pink way oxygen and Oxygen cold with the same goals as the original Pink way oxygen</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m151122-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/151122-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/151122-151122-PinkWayOxygenCold.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Caledonia Color Scheme 1.0</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Malcer">Malcer</author>
+  <homepage>http://opendesktop.org/content/show.php?content=146223</homepage>
+  <licence>11</licence>
+  <version></version>
+  <rating>79</rating>
+  <downloads>11038</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//146223-Caledonia.colors</installedfile>
+  <id>146223</id>
+  <releasedate>2012-09-04</releasedate>
+  <summary>[en]&#xd;
+&#xd;
+Caledonia color scheme for KDE environment (windows and other decorations). More integration in the art suite!&#xd;
+&#xd;
+This is an official component.&#xd;
+&#xd;
+Thanks to Jnodre for the help. :)&#xd;
+&#xd;
+--------------&#xd;
+&#xd;
+[es]&#xd;
+&#xd;
+Tema de colores Caledonia para el entorno KDE (ventanas y otras decoraciones). ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡s integraciÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³n en la suite artÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ­stica!&#xd;
+&#xd;
+ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂste es un componente oficial.&#xd;
+&#xd;
+Gracias a Jnodre por la ayuda. :)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m146223-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/146223-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/146223-Caledonia.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Final Destination</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=livio">livio</author>
+  <homepage>http://opendesktop.org/content/show.php?content=120695</homepage>
+  <licence>11</licence>
+  <version></version>
+  <rating>81</rating>
+  <downloads>1107</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//120695-FinalDestination.colors</installedfile>
+  <id>120695</id>
+  <releasedate>2010-02-24</releasedate>
+  <summary>Final Destination (http://georgeharrison.deviantart.com/art/Final-Destination-153609117) wallpaper inspired color scheme for KDE4.&#xd;
+&#xd;
+Works great with Oxygen under KDE SC 4.4.x.&#xd;
+&#xd;
+Colours for Oxygen window decoration are:&#xd;
+&#xd;
+Dropdown shadow&#xd;
+Inner: #434949&#xd;
+Outer: #1F1E24&#xd;
+&#xd;
+Glow&#xd;
+Inner: #C6D082&#xd;
+Outer: #819357&#xd;
+&#xd;
+These colours currently cannot be included in colour scheme, so I\'m sharing them too.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m120695-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/120695-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/120695-FinalDestination.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>LuckyEyes</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=schollidesign">schollidesign</author>
+  <homepage>http://opendesktop.org/content/show.php?content=101360</homepage>
+  <licence>0</licence>
+  <version>2.2</version>
+  <rating>83</rating>
+  <downloads>5081</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//101360-LuckyEyes.colors</installedfile>
+  <id>101360</id>
+  <releasedate>2009-04-13</releasedate>
+  <summary>Not to bright and not to dark. Elegant and good for the eyes. ;)&#xd;
+&#xd;
+Enjoy</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m101360-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/101360-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/101360-LuckyEyes.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>DarkDefault</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=maddien">maddien</author>
+  <homepage>http://opendesktop.org/content/show.php?content=103454</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>82</rating>
+  <downloads>5956</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//103454-DarkDefault.colors</installedfile>
+  <id>103454</id>
+  <releasedate>2009-04-25</releasedate>
+  <summary>I just changed some colors of the original color scheme to make it look darker and more elegant.&#xd;
+&#xd;
+to get my visual experience, use the DarkDefault QtCurve config ( http://kde-look.org/content/show.php?content=103455 ) &#xd;
+(and use QtCurve as your kdestyle, of course ;-) )&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m103454-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/103454-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/103454-DarkDefault.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Produkt Color Scheme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Saleel">Saleel</author>
+  <homepage>http://opendesktop.org/content/show.php?content=124222</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>80</rating>
+  <downloads>2248</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//124222-Produkt.colors</installedfile>
+  <id>124222</id>
+  <releasedate>2010-05-05</releasedate>
+  <summary>A color matching theme for oxygen style matching to the Produkt Plasma theme(http://kde-look.org/content/show.php/Produkt?content=124213)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m124222-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/124222-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/124222-Produkt.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Balance by LMolr</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=LMolr">LMolr</author>
+  <homepage>http://opendesktop.org/content/show.php?content=126034</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>79</rating>
+  <downloads>688</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//126034-Balance_by_LMolr.colors</installedfile>
+  <id>126034</id>
+  <releasedate>2010-06-16</releasedate>
+  <summary>A relaxing, neutral (grey) color scheme.&#xd;
+Balance between shadows and lights.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m126034-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/126034-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/126034-Balance_by_LMolr.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>TeaSun</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=747419">747419</author>
+  <homepage>http://opendesktop.org/content/show.php?content=113982</homepage>
+  <licence>0</licence>
+  <version>0.874 RC1</version>
+  <rating>82</rating>
+  <downloads>1306</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//113982-TeaSun.colors</installedfile>
+  <id>113982</id>
+  <releasedate>2010-07-31</releasedate>
+  <summary>A dark, yet warm and soothing colour scheme which marks the begin of a new era in KDE4-colour-scheming. </summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m113982-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/113982-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/113982-TeaSun.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>tango-colors</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=CyberTribe">CyberTribe</author>
+  <homepage>http://opendesktop.org/content/show.php?content=120347</homepage>
+  <licence>3</licence>
+  <version>0.1</version>
+  <rating>79</rating>
+  <downloads>481</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//120347-TangoColors.colors</installedfile>
+  <id>120347</id>
+  <releasedate>2010-02-17</releasedate>
+  <summary>This is tango colorsheme for kde, inspired by \&amp;quot;Tango\&amp;quot; theme on linux.org.ru</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m120347-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/120347-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/120347-TangoColors.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Solarized Dark/Light for Konsole &amp; Kate</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=hayalci">hayalci</author>
+  <homepage>http://opendesktop.org/content/show.php?content=150093</homepage>
+  <licence>1</licence>
+  <version>1.1</version>
+  <rating>63</rating>
+  <downloads>1647</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized Light.katesyntax</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized Light.kateschema</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized_Colors</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized Dark.kateschema</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/install.sh</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized Light.colorscheme</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/README.md</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized Dark.katesyntax</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Solarized Dark.colorscheme</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/Rakefile</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//hayalci-kde-colors-solarized-eaa0f8c/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//</installedfile>
+  <id>150093</id>
+  <releasedate>2012-04-16</releasedate>
+  <summary>Solarized is a popular color scheme implemented for various programs. It aims at low contrast-highly readable text and code. It has been tested with color calibrated and miscalibrated displays.&#xd;
+http://ethanschoonover.com/solarized&#xd;
+&#xd;
+&#xd;
+This pack contains Solarized Dark and Solarized Light themes for Konsole, Kate and Kcolorchooser.&#xd;
+&#xd;
+Kate is the embedded KDE editor used within Kdevelop, Kile, Kwrite, etc.&#xd;
+So the color changes will be applicable to all KDE programs with editor&#xd;
+components.&#xd;
+&#xd;
+Kcolorchooser palette helps you in customizing syntax highlightings, as this package comes with a \&amp;quot;bare\&amp;quot; syntax highlighting file.&#xd;
+&#xd;
+Konsole themes and generator code from:&#xd;
+https://github.com/phiggins/konsole-colors-solarized&#xd;
+&#xd;
+Install the theme by running install.sh in the downloaded zip file. Read the README.md file for more information and manual installation instructions.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m150093-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/150093-1.jpeg</previewBig>
+  <payload>https://github.com/hayalci/kde-colors-solarized/zipball/master</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Stone Orchid</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=svSHiFT">svSHiFT</author>
+  <homepage>http://opendesktop.org/content/show.php?content=149989</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>56</rating>
+  <downloads>46</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//149989-StoneOrchid.colors</installedfile>
+  <id>149989</id>
+  <releasedate>2012-04-07</releasedate>
+  <summary>This is a re-submit of the old \&amp;quot;Solaris-style\&amp;quot; color scheme, previously available as \&amp;quot;Stone Orchid\&amp;quot;, but now seem to be gone (never appears in \&amp;quot;search\&amp;quot; again).  I restored it from my old home profile&#xd;
+&#xd;
+I am not sure about its original license, left as \&amp;quot;GPL\&amp;quot; for the time being</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m149989-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/149989-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/149989-StoneOrchid.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Pink way oxygen</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=sead">sead</author>
+  <homepage>http://opendesktop.org/content/show.php?content=145732</homepage>
+  <licence>127</licence>
+  <version>0.1</version>
+  <rating>47</rating>
+  <downloads>146</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//145732-PinkWayOxygen.colors</installedfile>
+  <id>145732</id>
+  <releasedate>2011-10-05</releasedate>
+  <summary>Pink color scheme thinked for girls and maked to be a good pink oxygen mate ideal for girls, wit htat shee will get a very good pink oxygen theme very integrated with KDE and I have make it thinking on my mother becaude dhee likes the pink colors
+
+     NOTE: this color scheme is only recomended thinked and maked for the oxygen theme</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m145732-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/145732-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/145732-PinkWayOxygen.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>negro luz</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=teheladote">teheladote</author>
+  <homepage>http://opendesktop.org/content/show.php?content=159505</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>52</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//159505-NegroLuz.colors</installedfile>
+  <id>159505</id>
+  <releasedate>2013-07-02</releasedate>
+  <summary>Basically negro (http://kde-look.org/content/show.php/negro?content=149634&amp;PHPSESSID=94a94442e978f6e643054314f69fe6bd) in lighter colors. But I think it\\\\\\\'s not as problematic as negro and it looks better in Amarok. Here is also the css file for those who want their browsers to use the color scheme in websites: http://www.mediafire.com/download/h66x4sq2d7tgsbc/negro_luz.css</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m159505-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/159505-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/159505-NegroLuz.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Solarized Dark</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=plcplc">plcplc</author>
+  <homepage>http://opendesktop.org/content/show.php?content=151929</homepage>
+  <licence>6</licence>
+  <version>0.4</version>
+  <rating>63</rating>
+  <downloads>328</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//151929-SolarizedDark.colors</installedfile>
+  <id>151929</id>
+  <releasedate>2012-09-18</releasedate>
+  <summary>Port of the dark variant of the Solarized theme by Ethan Schoonover. See (http://ethanschoonover.com/solarized)</summary>
+  <changelog>0.1 -> 0.2 :
+Updated selection text/background to just switch normal text/background
+
+0.2 -> 0.3 :
+Tuned the colors of disabled controls
+
+0.3 -> 0.4 :
+Fixed row color alternation.
+
+0.4 -> 0.5 :
+Added some contrast to be more consistent with light theme. (without deviating from the palette)</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m151929-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/151929-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/151929-SolarizedDark.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Back To Earth</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=netean">netean</author>
+  <homepage>http://opendesktop.org/content/show.php?content=153276</homepage>
+  <licence>0</licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>61</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//153276-BackToEarth.colors</installedfile>
+  <id>153276</id>
+  <releasedate>2012-08-12</releasedate>
+  <summary>Never really considered any dark theme before, but I had some time on my hands so thought what the heck.. Didn\'t want dark grey, slate grey or black.. so ended up with this dark brown and occasionally blue theme and suprisingly it seems to be quite usable. May need a few adjustments here and there as I find them.  But for my media center PC, this seems to work surprisingly well, especially for photo work.
+
+
+</summary>
+  <changelog>Everything created from the default (light grey)  Linux Mint Kde 13 theme.
+
+
+</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m153276-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/153276-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/153276-BackToEarth.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Solarized Light</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=plcplc">plcplc</author>
+  <homepage>http://opendesktop.org/content/show.php?content=151950</homepage>
+  <licence>1</licence>
+  <version>0.3</version>
+  <rating>58</rating>
+  <downloads>196</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//151950-SolarizedLight.colors</installedfile>
+  <id>151950</id>
+  <releasedate>2012-09-18</releasedate>
+  <summary>Port of the light variant of the Solarized theme by Ethan Schoonover. See (http://ethanschoonover.com/solarized)</summary>
+  <changelog>0.1 -> 0.2 : Fixed horrible row-color alternations. For some reason these can\\\'t be edited from the SystemSettings-Color tool, but only in the raw file.
+
+0.2 -> 0.3 : Fixed horrible yellowness, and deviated slightly from solarized colour-use suggestions to get better contrast. (but did not deviate from the palette)</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m151950-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/151950-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/151950-SolarizedLight.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Neptunia Color'S</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Yurashina">Yurashina</author>
+  <homepage>http://opendesktop.org/content/show.php?content=154282</homepage>
+  <licence>1</licence>
+  <version>2.1</version>
+  <rating>50</rating>
+  <downloads>32</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//154282-Neptunia.colors</installedfile>
+  <id>154282</id>
+  <releasedate>2012-09-26</releasedate>
+  <summary>Theme by homage to play Hyper Dimension Neptunia.The color is mainly focused on Purple Heart!</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m154282-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/154282-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/154282-Neptunia.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Glacier</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mwoehlke">mwoehlke</author>
+  <homepage>http://opendesktop.org/content/show.php?content=79052</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>81</rating>
+  <downloads>3358</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//79052-Glacier.colors</installedfile>
+  <id>79052</id>
+  <releasedate>2008-04-16</releasedate>
+  <summary>A cool, calming light blue scheme inspired by ice.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m79052-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/79052-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/79052-Glacier.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Gentle</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Rasi">Rasi</author>
+  <homepage>http://opendesktop.org/content/show.php?content=101610</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>80</rating>
+  <downloads>3525</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//101610-Gentle.colors</installedfile>
+  <id>101610</id>
+  <releasedate>2012-04-16</releasedate>
+  <summary>A nice and light on the eye grey colorscheme. Works great with minimal setups</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m101610-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/101610-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/101610-Gentle.colors</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Dust</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=downdiagonal">downdiagonal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=91286</homepage>
+  <licence>14</licence>
+  <version>1.0</version>
+  <rating>73</rating>
+  <downloads>3282</downloads>
+  <installedfile>/home/victor/.kde/share/apps/color-schemes//91286-Dust.colors</installedfile>
+  <id>91286</id>
+  <releasedate>2008-10-15</releasedate>
+  <summary>This is the Ubuntu Dust theme for KDE 4. Check out the deKorator theme or emerald theme for accurate window decorations.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m91286-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/91286-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/91286-Dust.colors</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

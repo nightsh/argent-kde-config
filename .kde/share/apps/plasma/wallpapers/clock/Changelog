@@ -1,0 +1,24 @@
+2010-10-25  Version 0.6
+  * Fix string issue
+
+2010-09-21  Version 0.5
+  * Fix non english browsing (patch from Gökçen).
+  * Fix model signals (patch from Gökçen).
+
+2010-03-31  Version 0.4
+  * Support dropping wallpapers directly from browser
+  * Get new wallpaper dialog tweaks
+
+2010-03-30  Version 0.3
+  * Fix zodiac
+  * Align update to minute
+
+2010-03-30  Version 0.2
+  * Add "Get new wallpaper clocks" -dialog
+  * Select wallpaper on drop
+  * Fix analog clocks
+  * Do all renderings in threads
+  * Fix rendering on multiple screens
+
+2010-02-02  Version 0.1
+  * Initial release

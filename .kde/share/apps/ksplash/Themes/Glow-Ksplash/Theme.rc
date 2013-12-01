@@ -1,0 +1,9 @@
+[KSplash Theme: Default]
+Name = Glow KSplash
+Description = Glow Ksplash Theme
+Version = 1.0
+Author = Rezz
+Homepage = 
+
+# Theme behaviour settings.
+Engine = KSplashX

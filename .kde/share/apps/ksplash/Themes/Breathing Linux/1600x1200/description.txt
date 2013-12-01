@@ -1,0 +1,9 @@
+SCALE ON
+BACKGROUND_IMAGE 0 0 background.png
+SCALE OFF
+
+ANIM_REL 1 CC 0 0 CC 30 anim.png 60 0
+WAIT_STATE desktop
+STOP_ANIM 1
+
+WAIT_STATE ready

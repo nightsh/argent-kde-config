@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Dilbert (en)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mfuchs">mfuchs</author>
+  <homepage>http://opendesktop.org/content/show.php?content=92042</homepage>
+  <licence>1</licence>
+  <version>1.2</version>
+  <rating>92</rating>
+  <downloads>574</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//92042-dilbert.comic</installedfile>
+  <id>92042</id>
+  <releasedate>2010-11-10</releasedate>
+  <summary>Dilbert [1] plugin for plasma comic.&#xd;
+&#xd;
+[1] http://www.dilbert.com/</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/92042-dilbert.comic</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>NASA Astronomy Picture of the Day (APOD)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Panard">Panard</author>
+  <homepage>http://opendesktop.org/content/show.php?content=102733</homepage>
+  <licence>1</licence>
+  <version>0.5</version>
+  <rating>88</rating>
+  <downloads>487</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//102733-apod.comic</installedfile>
+  <id>102733</id>
+  <releasedate>2013-01-24</releasedate>
+  <summary>daily astronomy picture from NASA available at http://apod.nasa.gov with title and explanation (as tooltip) support.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m102733-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/102733-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/102733-apod.comic</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Cyanide and Happiness (updated)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=abmoraz">abmoraz</author>
+  <homepage>http://opendesktop.org/content/show.php?content=157812</homepage>
+  <licence>0</licence>
+  <version>0.2</version>
+  <rating>50</rating>
+  <downloads>23</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//157812-cyanide_and_happiness.comic</installedfile>
+  <id>157812</id>
+  <releasedate>2013-03-25</releasedate>
+  <summary>Cyanide and Happiness changed their webpage.  I modified the previous package by mfuchs to handle this update.  I can\'t figure out how to update his package here on kde-files.org, so I am creating a new project.  If anyone can explain how to update his directly, I will do that instead.</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/157812-cyanide_and_happiness.comic</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Ctrl+Alt+Del (en)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mfuchs">mfuchs</author>
+  <homepage>http://opendesktop.org/content/show.php?content=91761</homepage>
+  <licence>1</licence>
+  <version>1.5</version>
+  <rating>73</rating>
+  <downloads>171</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//91761-ctrlaltdel.comic</installedfile>
+  <id>91761</id>
+  <releasedate>2011-03-28</releasedate>
+  <summary>Ctrl+Alt+Del [1] plugin for plasma comic.&#xd;
+&#xd;
+[1] http://www.ctrlaltdel-online.com/</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/91761-ctrlaltdel.comic</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Cyanide and Happiness (en)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mfuchs">mfuchs</author>
+  <homepage>http://opendesktop.org/content/show.php?content=92677</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>78</rating>
+  <downloads>80</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//92677-cyanide_and_happiness.comic</installedfile>
+  <id>92677</id>
+  <releasedate>2008-11-06</releasedate>
+  <summary>Cyanide and Happiness [1] plugin for plasma comic.&#xd;
+&#xd;
+[1] http://explosm.net/comics/new/</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/92677-cyanide_and_happiness.comic</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>A Programmer's Life (en)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=emanuelpaz">emanuelpaz</author>
+  <homepage>http://opendesktop.org/content/show.php?content=144829</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>50</rating>
+  <downloads>130</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//144829-a_programmers_life.comic</installedfile>
+  <id>144829</id>
+  <releasedate>2011-09-01</releasedate>
+  <summary>Created by AndrÃ© Noel, A Programmers Life shows in a comic and intelligent way the daily routine of a programmer.&#xd;
+&#xd;
+http://aprogrammerslife.info</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m144829-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/144829-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/144829-a_programmers_life.comic</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>xkcd (en)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mfuchs">mfuchs</author>
+  <homepage>http://opendesktop.org/content/show.php?content=91803</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>91</rating>
+  <downloads>349</downloads>
+  <installedfile>/home/victor/.kde/share/apps/plasma/comics//91803-xkcd.comic</installedfile>
+  <id>91803</id>
+  <releasedate>2009-02-01</releasedate>
+  <summary>xkcd [1] plugin for plasma comic.&#xd;
+&#xd;
+[1] http://xkcd.com/</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/91803-xkcd.comic</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

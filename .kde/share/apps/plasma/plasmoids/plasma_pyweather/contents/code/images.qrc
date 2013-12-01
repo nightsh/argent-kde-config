@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="sunny.svg">../images/sunny.svg</file>
+        <file alias="showers.svg">../images/showers.svg</file>
+        <file alias="not-available.svg">../images/not-available.svg</file>
+        <file alias="cloudy.svg">../images/cloudy.svg</file>
+        <file alias="thunderstorms.svg">../images/thunderstorms.svg</file>
+        <file alias="haze.svg">../images/haze.svg</file>
+        <file alias="windy.svg">../images/windy.svg</file>
+        <file alias="foggy.svg">../images/foggy.svg</file>
+        <file alias="smoky.svg">../images/smoky.svg</file>
+        <file alias="snow.svg">../images/snow.svg</file>
+    </qresource>
+</RCC>

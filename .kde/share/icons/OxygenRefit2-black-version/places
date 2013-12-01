@@ -1,0 +1,10 @@
+#!/bin/bash
+convert -geometry 128x128 -sharpen 0x.4 $1 ./128x128/places/$2
+convert -geometry 64x64 -sharpen 0x.4 $1 ./64x64/places/$2
+convert -geometry 48x48 -sharpen 0x.4 $1 ./48x48/places/$2
+convert -geometry 32x32 -sharpen 0x.4 $1 ./32x32/places/$2
+convert -geometry 22x22 -sharpen 0x.4 $1 ./22x22/places/$2
+convert -geometry 16x16 -sharpen 0x.4 $1 ./16x16/places/$2
+#mv $1 ../llestrawork/
+exit 0
+

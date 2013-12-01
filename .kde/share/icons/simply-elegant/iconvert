@@ -1,0 +1,149 @@
+#!/bin/bash
+#
+# iconvert v0.2 - build iconset script by Susan Janet Voitel /GPL
+#
+themename=simply-elegant
+subdir1=actions
+subdir2=apps
+subdir3=devices
+subdir4=places
+subdir5=mimetypes
+subdir6=status
+subdir7=emblems
+subdir8=categories
+YesNo=y
+
+echo
+echo 'This script will build an icon theme directory structure, convert your icons to all needed sizes and sort them. Good luck ;)'
+echo 
+echo 'Press any key to continue.' 
+read
+
+# build directory structure in the directory where the script and the 128x128 folder are
+#mkdir 96x96 80x80
+mkdir 96x96 80x80 64x64 48x48 32x32 22x22 16x16
+mkdir -v 96x96/$subdir1 80x80/$subdir1 64x64/$subdir1 48x48/$subdir1 32x32/$subdir1 22x22/$subdir1 16x16/$subdir1
+mkdir -v 96x96/$subdir2 80x80/$subdir2 64x64/$subdir2 48x48/$subdir2 32x32/$subdir2 22x22/$subdir2 16x16/$subdir2
+mkdir -v 96x96/$subdir3 80x80/$subdir3 64x64/$subdir3 48x48/$subdir3 32x32/$subdir3 22x22/$subdir3 16x16/$subdir3
+mkdir -v 96x96/$subdir4 80x80/$subdir4 64x64/$subdir4 48x48/$subdir4 32x32/$subdir4 22x22/$subdir4 16x16/$subdir4
+mkdir -v 96x96/$subdir5 80x80/$subdir5 64x64/$subdir5 48x48/$subdir5 32x32/$subdir5 22x22/$subdir5 16x16/$subdir5
+mkdir -v 96x96/$subdir6 80x80/$subdir6 64x64/$subdir6 48x48/$subdir6 32x32/$subdir6 22x22/$subdir6 16x16/$subdir6
+mkdir -v 96x96/$subdir7 80x80/$subdir7 64x64/$subdir7 48x48/$subdir7 32x32/$subdir7 22x22/$subdir7 16x16/$subdir7
+mkdir -v 96x96/$subdir8 80x80/$subdir8 64x64/$subdir8 48x48/$subdir8 32x32/$subdir8 22x22/$subdir8 16x16/$subdir8
+
+# resize 128x128 icons, sharpen results and sort into directories
+echo
+echo 'now converting icons... please wait...'
+echo
+
+cd 128x128
+
+#actions
+cd $subdir1
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir1/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir1/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir1/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir1/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir1/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir1/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir1/$png
+done
+cd ..
+#apps
+cd $subdir2
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir2/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir2/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir2/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir2/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir2/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir2/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir2/$png
+done
+cd ..
+#devices
+cd $subdir3
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir3/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir3/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir3/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir3/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir3/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir3/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir3/$png
+done
+cd ..
+#places
+cd $subdir4
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir4/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir4/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir4/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir4/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir4/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir4/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir4/$png
+done
+cd ..
+#mimetypes
+cd $subdir5
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir5/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir5/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir5/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir5/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir5/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir5/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir5/$png
+done
+cd ..
+#status
+cd $subdir6
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir6/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir6/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir6/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir6/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir6/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir6/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir6/$png
+done
+cd ..
+#emblems
+cd $subdir7
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir7/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir7/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir7/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir7/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir7/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir7/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir7/$png
+done
+cd ..
+#categories
+cd $subdir8
+for png in `ls *.png`
+do
+convert -geometry 96x96 -sharpen 0x.4 $png ../../96x96/$subdir8/$png
+convert -geometry 80x80 -sharpen 0x.5 $png ../../80x80/$subdir8/$png
+convert -geometry 64x64 -sharpen 0x.6 $png ../../64x64/$subdir8/$png
+convert -geometry 48x48 -sharpen 0x.5 $png ../../48x48/$subdir8/$png
+convert -geometry 32x32 -sharpen 0x.5 $png ../../32x32/$subdir8/$png
+convert -geometry 22x22 -sharpen 0x.7 $png ../../22x22/$subdir8/$png
+convert -geometry 16x16 -sharpen 0x.7 $png ../../16x16/$subdir8/$png
+done
+cd ..
+
+echo 'Ready :) Icons are converted and sorted into directory structure.'
+
+cd .. # auskommentieren, wenn ln-Geschichte 
+exit

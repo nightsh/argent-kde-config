@@ -1,0 +1,61 @@
+[CompactMode]
+FontWeight=50
+PreviewSize=32
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=64
+
+[DownloadDialog Settings]
+Height 768=400
+Width 1366=700
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+LockPanels=false
+ShowCopyMoveMenu=true
+ShowSpaceInfo=true
+Version=200
+ViewPropsTimestamp=2013,6,8,19,17,7
+
+[IconsMode]
+FontWeight=50
+IconSize=80
+PreviewSize=32
+
+[KPropertiesDialog]
+Height 768=438
+Width 1366=467
+
+[MainWindow]
+Height 1080=1062
+Height 480=431
+Height 600=601
+Height 768=769
+Height 900=440
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAACBAAACufwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAABwBAAAF+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAeAAACuQAAAFUBAAAFAAAAAQAAALoAAAG2/AIAAAAC+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAB4AAAG2AAAAHAEAAAX7AAAAFABzAGUAYQByAGMAaABEAG8AYwBrAAAAAAD/////AAAAAAAAAAAAAAADAAAEdAAAALz8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAEdAAAAE0BAAAFAAAE0gAAArkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1024=1025
+Width 1360=1361
+Width 1366=1367
+Width 1440=722
+Width 1920=1918
+Width 640=636
+Width 800=801
+
+[Open-with settings]
+CompletionMode=5
+History=baobab,libreoffice --writer %U,evolution,gpicview %f,/usr/bin/vlc %U,vlc,xarchiver,gwenview,leafpad
+
+[PreviewSettings]
+Plugins=cursorthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,svgthumbnail
+
+[SettingsDialog]
+Height 768=468
+Width 1366=908

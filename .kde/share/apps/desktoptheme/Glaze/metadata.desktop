@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Glaze
+Comment=Very thin, transparent and slick theme for darker wallpapers
+
+X-KDE-PluginInfo-Author=Ivan Čukić
+X-KDE-PluginInfo-Email=ivan.cukic+kde (at) gmail (dot) com
+X-KDE-PluginInfo-Name=Glaze
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://ivan.fomentgroup.org/
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true

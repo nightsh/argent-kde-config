@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>DasBlack</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=KuduK">KuduK</author>
+  <homepage>http://opendesktop.org/content/show.php?content=106216</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>76</rating>
+  <downloads>23318</downloads>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/not-allowed</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/diamond_cross</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/08ffe1e65f80fcfdf9fff11263e74c48</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sailboat</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ne-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/208530c400c041818281048008011002</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dot_box_mask</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/trek</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/man</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/middlebutton</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/split_h</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/progress</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/default</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/50585d75b494802d0151028115016902</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/size_all</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/w-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/base_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/pointer</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/043a9f68147c53184671403ffa811cc5</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/size_ver</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/iron_cross</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/wait</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sw-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/button</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/box_spiral</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/nw-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/gumby</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/top_tee</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/38c5dff7c7b8962045400281044508d2</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/help</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/text</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ew-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/openhand</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/exchange</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/left_tee</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/zoom-in</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ibeam</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/umbrella</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/icon</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dotbox</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/color-picker</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/grabbing</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/nesw-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/col-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/9116a3ea924ed2162ecab71ba103b17f</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/whats_this</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/context-menu</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/pirate</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/0426c94ea35c87780ff01dc239897213</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/closedhand</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/base_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/forbidden</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/cell</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dnd-no-drop</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/left_ptr_help</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/based_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/leftbutton</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/a2a266d0498c3104214a47bd64ab0fc8</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/vertical-text</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/mouse</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/s-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/right_tee</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/x_cursor</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/coffee_mug</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/b66166c04f8c3109214a4fbd64a50fc8</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/0876e1c15ff2fc01f906f1c363074c0f</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/gobbler</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/c07385c7190e701020ff7ffffd08103c</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/alias</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/pointing_hand</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/ns-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/03b6e0fcb3499374a867d041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/spraycan</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/all-scroll</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/bogosity</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/clock</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sizing</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/size_fdiag</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/size_bdiag</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/00000000000000020006000e7e9ffc3f</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/target</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/size_hor</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/fcf21c00b30f7e3f83fe0dfd12e71cff</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/000fe400006c050018b903ff6a7ffef4</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/rtl_logo</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/star</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/rightbutton</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/e-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/split_v</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/048008013003cff3c00c801001200000</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/no-drop</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/right-arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/90b3018312820b127e5a0b7c8034a301</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/5aca4d189052212118709018842178c0</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/draped_box</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/bottom_tee</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/08ffe1cb5fe6fc01f906f1c063814ccf</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/based_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/f41c0e382c94c0958e07017e42b00462</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/boat</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/nwse-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/row-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/half-busy</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/dot</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/se-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/shuttle</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/n-resize</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//DasBlack/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>106216</id>
+  <releasedate>2010-10-17</releasedate>
+  <summary>DasBlack&#xd;
+By J. Aroche&#xd;
+http://aroche.wincustomize.com&#xd;
+&#xd;
+Thanks to Javier Aroche, for having allowed to convert and distribute its Cursor Theme.&#xd;
+&#xd;
+DasBlack X11 Mouse theme&#xd;
+converted from DasBlack.CurXPTheme with sd2xc-2.5.pl and refined with GIMP.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m106216-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/106216-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/106216-DasBlack.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>X-SKH</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=KuduK">KuduK</author>
+  <homepage>http://opendesktop.org/content/show.php?content=104602</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>73</rating>
+  <downloads>7707</downloads>
+  <installedfile>/home/victor/.icons//XSKH/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/size_all</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/e-resize</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/closedhand</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/wait</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/left_tee</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/split_h</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/ibeam</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/whats_this</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/button</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/n-resize</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dotbox</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/help</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/color-picker</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/x_cursor</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/openhand</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/pirate</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dnd-no-drop</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/left_ptr_help</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/draped_box</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/s-resize</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/fcf21c00b30f7e3f83fe0dfd12e71cff</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/half-busy</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/alias</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/w-resize</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/button_down</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/pointing_hand</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/bottom_tee</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/progress</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/SizeNESW_Down</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sizenesw_down</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/row-resize</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/not-allowed</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/target</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/a2a266d0498c3104214a47bd64ab0fc8</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/split_v</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/top_tee</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/grabbing</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/size_fdiag</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/all-scroll</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/b66166c04f8c3109214a4fbd64a50fc8</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/diamond_cross</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dot_box_mask</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/right_tee</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/size_bdiag</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/size_ver</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/col-resize</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/text</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/icon</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/forbidden</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/Arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/size_hor</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/pointer</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/00000000000000020006000e7e9ffc3f</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//XSKH/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>104602</id>
+  <releasedate>2009-11-03</releasedate>
+  <summary>X-SKH&#xd;
+Original theme By JJ Ying&#xd;
+http://users.wincustomize.com/691873/&#xd;
+&#xd;
+Horror Mouse By JJ Ying :-)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m104602-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/104602-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/104602-XSKH.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Obsidian Cursors</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=ECHM">ECHM</author>
+  <homepage>http://opendesktop.org/content/show.php?content=73135</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>77</rating>
+  <downloads>118928</downloads>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/f41c0e382c94c0958e07017e42b00462</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/zoomOut</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/zoomIn</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/f41c0e382c97c0938e07017e42800402</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/base_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/5aca4d189052212118709018842178c0</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/HandSqueezed</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/based_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/base_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/based_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/HandGrab</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/208530c400c041818281048008011002</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/HDoubleArrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/VDoubleArrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/08ffe1cb5fe6fc01f906f1c063814ccf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/0876e1c15ff2fc01f906f1c363074c0f</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/HandPointer.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-link.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/ZoomIn.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleSE.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/LeftArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Hand.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-help.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Copy.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/NO.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/HandP.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/NO.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Circle.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Hand.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleNE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Cross.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DownArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/ArrowRight.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/X.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Help.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleSE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner11.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner1.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner5.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner9.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner26.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner22.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner35.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner31.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner16.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner12.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner2.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner6.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner27.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner23.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner17.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner32.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner13.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner3.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner7.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner28.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner24.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner20.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner18.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner33.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner14.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner10.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner0.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner4.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner8.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner29.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner25.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner21.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner34.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner19.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner15.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/Spinner30.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Spinner/</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/IBeam.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeAll.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/UpArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/BaseS.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/BaseW.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-ask.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/HDoubleArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Handgrab.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeNESW.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Handsqueezed.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleSW.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/BaseE.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleSW.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/HDoubleArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/VDoubleArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/ZoomOut.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Link.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Link.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Build.sh</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DownArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Circle.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/RightArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeNWSE.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-copy.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/X.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleNW.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Crosshair.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Handwriting.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeWE.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/UpArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-link.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/RightArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Handsqueezed.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Cross.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeNWSE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-copy.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppStarting.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/LeftArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/ZoomIn.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/IBeam.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/VDoubleArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/ZoomOut.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeNS.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeWE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AnlgeNE.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Cursors.svg</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeNESW.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeAll.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Handwriting.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Crosshair.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/DND-ask.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/ArrowRight.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleNE.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/BaseS.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/BaseN.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/BaseN.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Copy.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Move.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/SizeNS.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Help.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Arrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/Wait.conf</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AngleNW.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner19.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner7.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner22.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner26.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner12.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner0.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner33.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner4.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner8.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner16.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner23.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner27.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner13.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner1.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner34.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner5.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner17.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner9.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner30.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner24.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner20.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner28.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner14.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner10.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner35.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner31.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner2.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner18.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner6.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner25.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner21.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner29.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner15.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner11.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner32.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/appSpinner3.png</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/AppSpinner/</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/Source/</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//Obsidian/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>73135</id>
+  <releasedate>2008-01-07</releasedate>
+  <summary>Description:&#xd;
+Obsidian Cursors is a shiny and clean cursor set created in Inkscape based upon my previous Polar Cursor Theme.&#xd;
+&#xd;
+Installation&#xd;
+Either install through whatever means your desktop's theme settings has or simply extract the archive to ~/.icons/ &#xd;
+&#xd;
+In GNOME, to select the theme, click the customize button in the Appearance prefferences application.  Then go to the pointer tab and select the theme.&#xd;
+&#xd;
+Note&#xd;
+KDE users please note that installing the theme through the control center can cause some cursors to use the default X cursors. To fix this simply extract the theme directly to ~/.icons/ &#xd;
+&#xd;
+Enjoy!</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m73135-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/73135-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/73135-Obsidian.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Oxygen Neon</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=qwerta">qwerta</author>
+  <homepage>http://opendesktop.org/content/show.php?content=137109</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>82</rating>
+  <downloads>16321</downloads>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/not-allowed</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/diamond_cross</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/08ffe1e65f80fcfdf9fff11263e74c48</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ne-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/208530c400c041818281048008011002</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/split_h</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/X-cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/progress</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/default</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/50585d75b494802d0151028115016902</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/size_all</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/w-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/pointer</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/043a9f68147c53184671403ffa811cc5</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/size_ver</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/iron_cross</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/wait</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sw-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/nw-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/top_tee</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/38c5dff7c7b8962045400281044508d2</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/help</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/text</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ew-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/openhand</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/left_tee</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/zoom-in</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ibeam</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/icon</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dotbox</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/color-picker</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/nesw-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/grabbing</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/col-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/9116a3ea924ed2162ecab71ba103b17f</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/whats_this</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/context-menu</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/up-arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/pirate</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/0426c94ea35c87780ff01dc239897213</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/closedhand</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/forbidden</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/cell</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dnd-no-drop</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/based_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/a2a266d0498c3104214a47bd64ab0fc8</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/vertical-text</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/s-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/right_tee</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/b66166c04f8c3109214a4fbd64a50fc8</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/0876e1c15ff2fc01f906f1c363074c0f</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/c07385c7190e701020ff7ffffd08103c</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/alias</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/pointing_hand</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/ns-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/03b6e0fcb3499374a867d041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/all-scroll</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/clock</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sizing</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/size_fdiag</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/00000000000000020006000e7e9ffc3f</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/size_bdiag</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/size_hor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/fcf21c00b30f7e3f83fe0dfd12e71cff</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/e-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/split_v</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/048008013003cff3c00c801001200000</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/f41c0e382c97c0938e07017e42800402</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/no-drop</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/right-arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/zoom-out</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/5aca4d189052212118709018842178c0</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/draped_box</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/bottom_tee</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/08ffe1cb5fe6fc01f906f1c063814ccf</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/based_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/f41c0e382c94c0958e07017e42b00462</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/nwse-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/half-busy</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/row-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/dot</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/se-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/n-resize</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/X_cursor.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/col-resize.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/dot.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/center_ptr.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/right_ptr.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/plus.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/down-arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/forbidden.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress06.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress08.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress07.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress02.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress09.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress04.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/col-resize.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress03.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress05.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/link.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress00.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/color-picker.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pencil.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress01.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/copy.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/dot.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/openhand.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/up-arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/dotbox.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/zoom-in.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/fleur.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pirate.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/ibeam.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/zoom-out.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/vertical-text.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/clock.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/right_ptr.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pirate.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/left-arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/cross.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/right-arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/left_ptr.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/help.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_ver.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/help.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/circle.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/link.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/clock.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/zoom-out.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/closedhand.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/dotbox.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/context-menu.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/double_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/closedhand.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/zoom-in.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_bdiag.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/vertical-text.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pointer.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/forbidden.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress22.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/color-picker.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress23.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress20.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/left_ptr.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/openhand.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress21.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress16.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/cross.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress18.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress17.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress12.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress19.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress14.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress13.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/X_cursor.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/dot.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress15.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress10.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait08.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait06.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress11.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait09.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/color-picker.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/left-arrow.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait04.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait07.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/Makefile</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait02.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait05.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/col-resize.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait00.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/plus.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait03.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/center_ptr.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait01.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait18.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/circle.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait16.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/link.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait19.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait14.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait17.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait12.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait15.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_hor.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/up-arrow.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/copy.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait10.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait13.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait11.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/zoom-in.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pencil.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/dotbox.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pirate.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/X_cursor.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/zoom-out.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/clock.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/double_arrow.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait22.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/openhand.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait20.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/ibeam.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait23.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pencil.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/wait21.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/row-resize.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/fleur.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/fleur.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pointer.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_ver.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_hor.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/ibeam.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/circle.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/up-arrow.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/help.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/context-menu.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/center_ptr.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/down-arrow.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/closedhand.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/right-arrow.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_fdiag.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/forbidden.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/pointer.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/context-menu.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/double_arrow.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_bdiag.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/left_ptr.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/cross.svg</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/progress.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/size_fdiag.png</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/copy.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/plus.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/row-resize.cursor</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/source/</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//oxy-neon/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>137109</id>
+  <releasedate>2011-01-30</releasedate>
+  <summary>Stylized oxygen mouse theme created for use with dark desktop and especially for FRUiT's Neon suite.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m137109-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/137109-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/137109-oxy-neon-0.2.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Neutral</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=nikaa">nikaa</author>
+  <homepage>http://opendesktop.org/content/show.php?content=28310</homepage>
+  <licence>3</licence>
+  <version>1.13a</version>
+  <rating>75</rating>
+  <downloads>56208</downloads>
+  <installedfile>/home/victor/.icons//neutral/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/left_tee</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dotbox</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/help</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/pirate</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/left_ptr_help</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/draped_box</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/bottom_tee</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/centre_ptr</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/base_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/based_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/base_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/based_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/target</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/top_tee</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/diamond_cross</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dot_box_mask</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/right_tee</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/icon</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//neutral/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//neutral/COPYRIGHT</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-move.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_left_corner.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/ll_angle.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_h_double_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch04.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-ask.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch03.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-none.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_tee.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_tee.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/copy.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_right_corner.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch08.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/xterm.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/tcross.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/hand.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_down_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch01.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-ask.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/based_arrow_down.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch02.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/question_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_left_corner.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/ur_angle.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/move.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bd_double_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-move.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/copy.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch05.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/crossed_circle.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/make.sh</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/right_ptr.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/question_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-link.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/tcross.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-copy.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/pencil.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/crosshair.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_right_corner.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_left_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_side.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_down_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch08.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/fleur.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_right_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch01.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/circle.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/ll_angle.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/crossed_circle.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_tee.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/pencil.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_right_corner.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_left_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/hand1.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-none.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/ul_angle.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/xterm.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_side.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-link.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/hand1.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/move.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch05.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bd_double_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/crossed_circle.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/lr_angle.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/X_cursor.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/cross.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_tee.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/right_tee.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/based_arrow_up.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch02.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dotbox.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/plus.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/fd_double_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_up_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_right_corner.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_v_double_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/based_arrow_down.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/link.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/plus.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_up_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/right_side.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch04.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch06.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dotbox.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/X_cursor.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd.xcf</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/circle.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/lr_angle.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/fd_double_arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch07.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/ul_angle.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_side.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/right_side.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_side.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/ur_angle.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_tee.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_h_double_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/crosshair.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_right_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/center_ptr.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/top_left_corner.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_side.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_left_corner.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/sb_v_double_arrow.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch03.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/right_ptr.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/pencil.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_tee.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/cross.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/link.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/watch06.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/based_arrow_up.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/right_tee.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/fleur.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/bottom_side.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/left_ptr_watch07.png</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/dnd-copy.in</installedfile>
+  <installedfile>/home/victor/.icons//neutral/source/</installedfile>
+  <installedfile>/home/victor/.icons//neutral/LICENSE</installedfile>
+  <installedfile>/home/victor/.icons//neutral/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//neutral/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>28310</id>
+  <releasedate>2006-03-06</releasedate>
+  <summary>A modified and extended jaguarx fork with grayscale animated watch. Looks lika a set of standard black *X cursors, but smoothed and shadowed.&#xd;
+&#xd;
+NOTE for gentoo users:&#xd;
+Please emerge any &amp;quot;xcursors&amp;quot; ebuild and apply the same installation instructions to this package.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m28310-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/28310-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/28310-neutral-1.13a.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>SteamPunk</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=KuduK">KuduK</author>
+  <homepage>http://opendesktop.org/content/show.php?content=140755</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>74</rating>
+  <downloads>7660</downloads>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ns-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top-right-arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/size_all</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/02working_in_background</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/split_h</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left_tee</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/wait</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/nw-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ibeam</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/whats_this</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/10west_resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/up</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/n-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/19button</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/01help_select</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/help</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left-hand</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/08north_resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/openhand</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/pirate</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/04precision_select</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/nesw-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top-tee</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/x-cursor</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/up-arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/17alternate_select</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top-left-arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/18hand</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ask</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/alias</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/w-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/pointing_hand</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/16move</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/nwse-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/vertical-text</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/progress</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/row-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/not-allowed</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/default</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/12northwest_resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/a2a266d0498c3104214a47bd64ab0fc8</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/split_v</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ne-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/top_tee</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left-tee</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/14northeast_resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/size_fdiag</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/all-scroll</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/b66166c04f8c3109214a4fbd64a50fc8</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/06handwriting</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/size_bdiag</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/size_ver</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/cell</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/0426c94ea35c87780ff01dc239897213</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/03busy</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/no-drop</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/07unavailable</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/col-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/text</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/05text_select</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ew-resize</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/forbidden</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/00standard_select</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/size_hor</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/pointer</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//SteamPunk/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>140755</id>
+  <releasedate>2011-04-25</releasedate>
+  <summary>Original theme by Vampothika&#xd;
+Thanks to Vampothika, allowed me to convert this pointer.&#xd;
+&#xd;
+For the conversion I used the wonderful script by coolwanglu cfx2xc (CursorFX converter!!!) http://code.google.com/p/cfx2xc/&#xd;
+ </summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m140755-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/140755-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/140755-SteamPunk.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Griffin Embers Cursors</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=jameshardy88">jameshardy88</author>
+  <homepage>http://opendesktop.org/content/show.php?content=100252</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>77</rating>
+  <downloads>9309</downloads>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/f41c0e382c94c0958e07017e42b00462</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/zoomOut</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/zoomIn</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/f41c0e382c97c0938e07017e42800402</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/base_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/5aca4d189052212118709018842178c0</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/HandSqueezed</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/based_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/base_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/based_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/HandGrab</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/208530c400c041818281048008011002</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/HDoubleArrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/VDoubleArrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/08ffe1cb5fe6fc01f906f1c063814ccf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/0876e1c15ff2fc01f906f1c363074c0f</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/index.theme~</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/ZoomIn.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/HandPointer.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-link.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Arrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleSE.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/LeftArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-help.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Hand.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Copy.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/NO.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/HandP.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/NO.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Circle.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Hand.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleNE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Cross.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DownArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/ArrowRight.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/X.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Help.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleSE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner11.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner1.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner5.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner9.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner26.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner22.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner35.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner31.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner16.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner12.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner2.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner6.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner27.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner23.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner32.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner17.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner13.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner3.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner7.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner28.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner24.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner20.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner33.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner18.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner14.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner10.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner0.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner4.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner29.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner8.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner25.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner21.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner19.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner34.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner30.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/Spinner15.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Spinner/</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/UpArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/IBeam.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeAll.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/BaseS.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/BaseW.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-ask.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/HDoubleArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Handgrab.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeNESW.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Handsqueezed.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/BaseE.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleSW.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleSW.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/HDoubleArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/VDoubleArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/ZoomOut.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Link.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Link.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Build.sh</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DownArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Circle.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/RightArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeNWSE.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-copy.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/X.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Crosshair.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleNW.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Handwriting.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeWE.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/UpArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-link.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/RightArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Handsqueezed.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Cross.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeNWSE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-copy.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppStarting.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/LeftArrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/ZoomIn.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/IBeam.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/VDoubleArrow.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/ZoomOut.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeNS.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeWE.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AnlgeNE.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Cursors.svg</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeNESW.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeAll.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Handwriting.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/DND-ask.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Crosshair.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/ArrowRight.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleNE.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/BaseS.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/BaseN.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/BaseN.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Copy.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Move.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Help.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Arrow.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/SizeNS.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/Wait.conf</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AngleNW.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner19.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner7.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner22.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner26.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner12.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner0.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner33.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner4.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner8.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner16.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner23.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner27.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner13.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner1.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner5.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner34.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner30.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner17.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner9.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner24.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner20.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner28.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner14.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner10.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner35.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner2.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner31.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner18.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner6.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner25.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner21.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner29.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner15.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner11.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner32.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/appSpinner3.png</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/AppSpinner/</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/Source/</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//Griffin Embers Cursors/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>100252</id>
+  <releasedate>2009-03-01</releasedate>
+  <summary>The default cursor theme for the Griffin Embers Suite. It is an orange remix of the obsidian cursor theme, as such all credit should go to the original author.&#xd;
+&#xd;
+Hope you enjoy it and please let me know how i can improve it</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m100252-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/100252-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/100252-Griffin Embers Cursors.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Ecliz</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=KuduK">KuduK</author>
+  <homepage>http://opendesktop.org/content/show.php?content=110340</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>82</rating>
+  <downloads>88007</downloads>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/not-allowed</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/fleur</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/diamond_cross</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/fcf1c3c7cd4491d801f1e1c78f100000</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ne-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/208530c400c041818281048008011002</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dot_box_mask</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/draft_small</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/5c6cd98b3f3ebcb1f9c7f1c204630408</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sb_v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/hand_down</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/split_h</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/progress</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/pencil</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/default</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/50585d75b494802d0151028115016902</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/size_all</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/w-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/right_side</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/base_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/pointer</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sb_down_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/link</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/043a9f68147c53184671403ffa811cc5</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/size_ver</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/cross_reverse</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/wait</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/circle</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/button</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sw-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dnd-none</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/nw-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/top_tee</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/3085a0e285430894940527032f8b26df</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/38c5dff7c7b8962045400281044508d2</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/help</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/text</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/lr_angle</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ew-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/plus</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ll_angle</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/left_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/openhand</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/top_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/c7088f0f3e6c8088236ef8e1e3e70000</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/bottom_side</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/hand1</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/hand2</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/08e8e1c95fe2fc01f976f1e063a24ccd</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/bottom_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/left_tee</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dnd-ask</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/xterm</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/zoom-in</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ibeam</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/1081e37283d90000800003c07f3ef6bf</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/hand</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/2870a09082c103050810ffdffffe0204</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/v_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/d9ce0ab605698f320427677b458ad60b</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/icon</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/question_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dotbox</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/color-picker</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/nesw-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/grabbing</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/center_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dnd-link</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/cross</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/col-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/14fef782d02440884392942c11205230</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/9116a3ea924ed2162ecab71ba103b17f</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sb_h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/whats_this</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/00008160000006810000408080010102</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/fd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/move</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/pirate</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/0426c94ea35c87780ff01dc239897213</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/e29285e634086352946a0e7090d73106</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/watch</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/crossed_circle</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/closedhand</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/crosshair</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/028006030e0e7ebffc7f7070c0600140</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/bd_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/top_side</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/forbidden</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/3ecb610c1bf2410f44200f48c40d3599</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/cell</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dnd-no-drop</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/left_ptr_help</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/draft_large</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/based_arrow_down</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/a2a266d0498c3104214a47bd64ab0fc8</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/vertical-text</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/s-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sb_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/right_tee</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/right_ptr</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/03b6e0fcb3499374a867c041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/x_cursor</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/top_right_corner</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/tcross</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ur_angle</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/X_cursor</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ul_angle</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/b66166c04f8c3109214a4fbd64a50fc8</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/c07385c7190e701020ff7ffffd08103c</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/alias</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/pointing_hand</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/ns-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/top_left_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/03b6e0fcb3499374a867d041f52298f0</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dnd-move</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/6407b0e94181790501fd1e167b474872</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/all-scroll</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sizing</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/bottom_left_corner</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/size_fdiag</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/left_ptr_watch</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/size_bdiag</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/00000000000000020006000e7e9ffc3f</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/target</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/copy</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/size_hor</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/fcf21c00b30f7e3f83fe0dfd12e71cff</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dnd-copy</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/9081237383d90e509aa00f00170e968f</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/000fe400006c050018b903ff6a7ffef4</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/e-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/left_side</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/split_v</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/048008013003cff3c00c801001200000</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/no-drop</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sb_right_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/h_double_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/90b3018312820b127e5a0b7c8034a301</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/4498f0e0c1937ffe01fd06f973665830</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/5aca4d189052212118709018842178c0</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/draped_box</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/bottom_tee</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/based_arrow_up</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/08ffe1cb5fe6fc01f906f1c063814ccf</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/f41c0e382c94c0958e07017e42b00462</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/9d800788f1b08800ae810202380a0822</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/nwse-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/sb_up_arrow</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/half-busy</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/row-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/dot</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/se-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/640fb0e74195791501fd1ed57b41487f</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/n-resize</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/cursors/</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/index.theme</installedfile>
+  <installedfile>/home/victor/.icons//Ecliz/</installedfile>
+  <installedfile>/home/victor/.icons//</installedfile>
+  <id>110340</id>
+  <releasedate>2011-06-28</releasedate>
+  <summary>Ecliz Cursors&#xd;
+Original theme By JJ Ying http://users.wincustomize.com/691873/&#xd;
+&#xd;
+For the conversion I used the program perl sd2xc-2.5.pl adds KDE4 Compatibility, and adjusts the individual pointer animations with GIMP and XMC plugin.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m110340-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/110340-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/110340-Ecliz.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

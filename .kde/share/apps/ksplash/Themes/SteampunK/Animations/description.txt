@@ -1,0 +1,58 @@
+SCALE ON
+IMAGE 0 0 background.jpg
+SCALEX ON
+SCALEY ON
+IMAGE_REL CT -600 863 LT switch2.png
+ANIM_REL 10 CT -357 785 LT 20 plating.png 80 1
+ANIM_REL 11 CT -655 768 LT 30 indicator.jpg 80
+
+ANIM_REL 20 CT -623 908 LT 10 switchlamps.png 100 1
+ANIM_REL 21 CT -616 948 LT 10 switchlamps.png 100 1
+
+ANIM_REL 1 CT -290 196 LT 20 gears.png 30
+ANIM_REL 2 CT -690 390 LT 12 dynamo.png 10
+ANIM_REL 3 CT 275 185 LT 10 lights0.png 30 1
+ANIM_REL 4 CT 410 860 LT 10 gauge0.png 10 1
+ANIM_REL 5 CT -590 100 LT 10 lamps0.png 30 1
+
+WAIT_STATE initial
+IMAGE_REL CT -600 863 LT switch3.png
+ANIM_REL 22 CT -593 981 LT 10 switchlamps.png 100 1
+WAIT_STATE kded
+STOP_ANIM 3
+STOP_ANIM 4
+STOP_ANIM 5
+IMAGE_REL CT -600 863 LT switch4.png
+ANIM_REL 23 CT -561 1003 LT 10 switchlamps.png 100 1
+
+ANIM_REL 3 CT 275 185 LT 24 lights.png 30
+ANIM_REL 4 CT 410 860 LT 24 gauge.png 10
+ANIM_REL 5 CT -590 100 LT 10 lamps.png 30
+
+
+WAIT_STATE kcminit
+IMAGE_REL CT -600 863 LT switch5.png
+ANIM_REL 24 CT -521 1011 LT 10 switchlamps.png 100 1
+
+
+WAIT_STATE confupdate
+IMAGE_REL CT -600 863 LT switch6.png
+ANIM_REL 25 CT -483 1003 LT 10 switchlamps.png 100 1
+
+
+WAIT_STATE wm
+IMAGE_REL CT -600 863 LT switch7.png
+ANIM_REL 26 CT -450 981 LT 10 switchlamps.png 100 1
+
+
+WAIT_STATE desktop
+IMAGE_REL CT -600 863 LT switch8.png
+ANIM_REL 27 CT -427 948 LT 10 switchlamps.png 100 1
+
+WAIT_STATE ready
+IMAGE_REL CT -600 863 LT switch9.png
+ANIM_REL 28 CT -419 908 LT 10 switchlamps.png 100 1
+
+
+
+

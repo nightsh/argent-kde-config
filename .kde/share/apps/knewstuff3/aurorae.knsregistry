@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Dark Shine Aurorae</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Scnd101">Scnd101</author>
+  <homepage>http://opendesktop.org/content/show.php?content=115852</homepage>
+  <licence>1</licence>
+  <version>0.7</version>
+  <rating>77</rating>
+  <downloads>432</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/decoration3.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/maximize.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/darkshinerc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/decoration.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/close.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/restore.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/keepabove.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/keepbelow.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/minimize.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//darkshine/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>115852</id>
+  <releasedate>2009-11-22</releasedate>
+  <summary>Aurorae Theme with a dark glass look</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m115852-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/115852-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/115852-darkshine.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Nano</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=WillS">WillS</author>
+  <homepage>http://opendesktop.org/content/show.php?content=112697</homepage>
+  <licence>1</licence>
+  <version>0.3</version>
+  <rating>81</rating>
+  <downloads>269</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/nano-decorc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//nano-deco/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>112697</id>
+  <releasedate>2009-10-01</releasedate>
+  <summary>Nano - For a simple, slick and smooth look.&#xd;
+&#xd;
+This is just a port/rebuild of my favourite XP-Visual-Style, (http://customize.org/xpthemes/34699) I have used for many years.&#xd;
+&#xd;
+Built it for myself. Now sharing to the world.&#xd;
+&#xd;
+Please, also notice the matching Nano Plasma Theme&#xd;
+http://kde-look.org/content/show.php/Nano?content=112690&#xd;
+&#xd;
+&#xd;
+thankful for your opinions and suggestions,&#xd;
+&#xd;
+will;&#xd;
+&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m112697-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/112697-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/112697-nano-deco.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>My Glowglass Lite Black</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=oreia">oreia</author>
+  <homepage>http://opendesktop.org/content/show.php?content=109771</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>60</rating>
+  <downloads>114</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/my-glowglass-lite-blackrc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/CMakeLists.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//my-glowglass-lite-black/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>109771</id>
+  <releasedate>2009-08-07</releasedate>
+  <summary>I like minimalistic themes so I grabbed the Glowglass Lite Black theme (by cfraz89) and changed the sizes of borders, icons and padding.&#xd;
+&#xd;
+Enjoy !! =P&#xd;
+&#xd;
+&#xd;
+Original (by cfraz89): http://www.kde-look.org/content/show.php/Glowglass-lite?content=107993</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m109771-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/109771-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/109771-my-glowglass-lite-black.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>BlackSquare</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=silentlexx">silentlexx</author>
+  <homepage>http://opendesktop.org/content/show.php?content=161323</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>40</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/.directory</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/keepabove.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/BlackSquarerc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/alldesktops.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/keepbelow.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/resize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/shade.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//BlackSquare/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>161323</id>
+  <releasedate>2013-10-19</releasedate>
+  <summary>Minimal, black, flat, thin, square theme for Aurorae.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m161323-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/161323-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/161323-BlackSquare-1.0.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>glowglass (aurorae)</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=vicko">vicko</author>
+  <homepage>http://opendesktop.org/content/show.php?content=107473</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>77</rating>
+  <downloads>2220</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/glowglass-decorc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/CMakeLists.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-deco/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>107473</id>
+  <releasedate>2009-08-06</releasedate>
+  <summary>An Aurorae Window Theme http://www.kde-look.org/content/show.php/Aurorae+Theme+Engine?content=107158&#xd;
+&#xd;
+buttons http://www.kde-look.org/content/show.php/SVG+Deco+-+concept?content=20002</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m107473-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/107473-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/107473-glowglass-deco02.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Ambiance Aurorae</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Scnd101">Scnd101</author>
+  <homepage>http://opendesktop.org/content/show.php?content=122924</homepage>
+  <licence>1</licence>
+  <version>0.8</version>
+  <rating>77</rating>
+  <downloads>1150</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/lucidwinedition.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/maximize.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/decoration.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/close.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/minimize.svg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/ambiancerc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//ambiance/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>122924</id>
+  <releasedate>2010-04-08</releasedate>
+  <summary>my remake of the ambiance theme from ubuntu lucid</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m122924-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/122924-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/122924-ambiance.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Dark Perfection Aurorae</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Scnd101">Scnd101</author>
+  <homepage>http://opendesktop.org/content/show.php?content=115681</homepage>
+  <licence>1</licence>
+  <version>0.8</version>
+  <rating>75</rating>
+  <downloads>578</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/perfection-darkrc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//perfection-dark/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>115681</id>
+  <releasedate>2009-11-18</releasedate>
+  <summary>Dark version of perfection theme</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m115681-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/115681-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/115681-perfection-dark.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Kdust Aurorae</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Scnd101">Scnd101</author>
+  <homepage>http://opendesktop.org/content/show.php?content=114396</homepage>
+  <licence>1</licence>
+  <version>0.9</version>
+  <rating>86</rating>
+  <downloads>1977</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/Kdustrc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//Kdust/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>114396</id>
+  <releasedate>2009-10-27</releasedate>
+  <summary>Aurorae theme from kdust, split for your convenience :)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m114396-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/114396-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/114396-Kdust.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Glowglass-lite black</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=cfraz89">cfraz89</author>
+  <homepage>http://opendesktop.org/content/show.php?content=109999</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>67</rating>
+  <downloads>332</downloads>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/minimize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/metadata.desktop</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/glowglass-lite-blackrc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/close.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/restore.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/maximize.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/CMakeLists.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/glowglass-lite-blackrc~</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/decoration.svgz</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//glowglass-lite-black/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/aurorae/themes//</installedfile>
+  <id>109999</id>
+  <releasedate>2009-08-11</releasedate>
+  <summary>Glowglass-lite window decoration for the Aurorae window theme engine. Sexy black version. Get aurorae at http://www.kde-look.org/content/show.php/Aurorae+Theme+Engine?content=107158</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m109999-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/109999-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/109999-glowglass-lite-black.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

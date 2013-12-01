@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>cold_morning</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=indahouse">indahouse</author>
+  <homepage>http://opendesktop.org/content/show.php?content=75925</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>300</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///75925-cold_morning_wallpaper_2.jpg</installedfile>
+  <id>75925</id>
+  <releasedate>2008-02-25</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m75925-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/75925-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/75925-cold_morning_wallpaper_2.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Way of the prophet</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=dervisch">dervisch</author>
+  <homepage>http://opendesktop.org/content/show.php?content=115199</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>56</rating>
+  <downloads>230</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///115199-way1.jpg.tar</installedfile>
+  <id>115199</id>
+  <releasedate>2009-11-09</releasedate>
+  <summary>The second exposition. A drought variant "Way of the prophet". From a series "the forgotten worlds"</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m115199-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/115199-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/115199-way1.jpg.tar</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Penguin Linux Classic</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=sakasa">sakasa</author>
+  <homepage>http://opendesktop.org/content/show.php?content=69599</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>276</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///69599-Linux Classic.jpg</installedfile>
+  <id>69599</id>
+  <releasedate>2007-11-11</releasedate>
+  <summary>Instructions:&#xd;
+&#xd;
+To Download without Icons as you see the first top small image, go to the blue link in the lower left that says Download.&#xd;
+ &#xd;
+Downloaded images has better graphics.&#xd;
+&#xd;
+I thank you for any vote.&#xd;
+ &#xd;
+Thank you.&#xd;
+ &#xd;
+Best Wishes!</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m69599-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/69599-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/69599-Linux Classic.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Steampunk: Map O' World</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Doches">Doches</author>
+  <homepage>http://opendesktop.org/content/show.php?content=25265</homepage>
+  <licence>2</licence>
+  <version></version>
+  <rating>38</rating>
+  <downloads>416</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///25265-steampunk2.jpg</installedfile>
+  <id>25265</id>
+  <releasedate>2005-06-12</releasedate>
+  <summary>Dark. Gritty. Goes well with analogMachine.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m25265-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/25265-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/25265-steampunk2.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>KDE Elegant Wallpaper Set</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=darknoize">darknoize</author>
+  <homepage>http://opendesktop.org/content/show.php?content=96618</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>400</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///Kde-Elegant-Wallpaper/KDE_Elegant-2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///Kde-Elegant-Wallpaper/KDE_Elegant-1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///Kde-Elegant-Wallpaper/</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///</installedfile>
+  <id>96618</id>
+  <releasedate>2009-01-06</releasedate>
+  <summary>A nice set of KDE elegant wallpapers.&#xd;
+I made them because i was bored, and i&#xd;
+wanted to see some new cool elegant wallpaper. i hope u like them. &#xd;
+The set contains 2 wallpapers in 1680x1050.&#xd;
+&#xd;
+enjoy!</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m96618-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/96618-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/96618-Kde-Elegant-Wallpaper.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Blue 3</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=bsilvia">bsilvia</author>
+  <homepage>http://opendesktop.org/content/show.php?content=69192</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>1736</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///69192-1680x1050blue.jpg</installedfile>
+  <id>69192</id>
+  <releasedate>2007-11-05</releasedate>
+  <summary>Blue wallpaper</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m69192-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/69192-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/69192-1680x1050blue.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Apophysis_32 -1280x1024</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=wallaby13">wallaby13</author>
+  <homepage>http://opendesktop.org/content/show.php?content=133006</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>48</rating>
+  <downloads>144</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///133006-Apophysis_32 -1280x1024.jpg</installedfile>
+  <id>133006</id>
+  <releasedate>2010-10-07</releasedate>
+  <summary>A fractal image featuring a cyan blue foreground and black background. </summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m133006-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/133006-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/133006-Apophysis_32 -1280x1024.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Arctic Circle</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=ketthors">ketthors</author>
+  <homepage>http://opendesktop.org/content/show.php?content=111028</homepage>
+  <licence>3</licence>
+  <version>1.0</version>
+  <rating>46</rating>
+  <downloads>27</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///111028-1030113.jpg</installedfile>
+  <id>111028</id>
+  <releasedate>2009-08-27</releasedate>
+  <summary>Picture taken at the northern Arctic Circle from the Coastal Steamer in Norway July 20th, 2002. You can see the Arctic Circle globe on the island in the left corner of the picture. The camera used is a Fujifilm FinePix A205S 1.3 MP digital camera</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/111028-1030113.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Autumn fog without structue</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Linuxtal">Linuxtal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=55637</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>61</rating>
+  <downloads>1606</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///55637-autumn_fog_ohne.jpg</installedfile>
+  <id>55637</id>
+  <releasedate>2007-04-03</releasedate>
+  <summary>Picture with structure see here:&#xd;
+&#xd;
+http://www.kde-look.org/content/show.php/Autumn+Fog?content=50435</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m55637-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/55637-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/55637-autumn_fog_ohne.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Pipedreams</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=liewald">liewald</author>
+  <homepage>http://opendesktop.org/content/show.php?content=126462</homepage>
+  <licence>3</licence>
+  <version>1.0</version>
+  <rating>57</rating>
+  <downloads>129</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///126462-Pipedreamsw.jpg</installedfile>
+  <id>126462</id>
+  <releasedate>2010-06-19</releasedate>
+  <summary>Steampunk wallpaper</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m126462-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/126462-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/126462-Pipedreamsw.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Sunset on Campotosto lake</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=zenren">zenren</author>
+  <homepage>http://opendesktop.org/content/show.php?content=126360</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>77</rating>
+  <downloads>3247</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///126360-p6110227-pulvar1920.jpg</installedfile>
+  <id>126360</id>
+  <releasedate>2012-02-24</releasedate>
+  <summary>Here is another view of this lake:&#xd;
+http://kde-look.org/content/show.php?content=129928</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m126360-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/126360-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/126360-p6110227-pulvar1920.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Dragon Debian</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=myshell38">myshell38</author>
+  <homepage>http://opendesktop.org/content/show.php?content=94812</homepage>
+  <licence>15</licence>
+  <version>1.0</version>
+  <rating>63</rating>
+  <downloads>228</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///94812-background4.png</installedfile>
+  <id>94812</id>
+  <releasedate>2008-12-11</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m94812-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/94812-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/94812-background4.png</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>kachemak bay1</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=jamjam">jamjam</author>
+  <homepage>http://opendesktop.org/content/show.php?content=124451</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>632</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///124451-kachemak_spit.JPG</installedfile>
+  <id>124451</id>
+  <releasedate>2010-05-16</releasedate>
+  <summary>Kachemak bay in April</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m124451-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/124451-1.JPG</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/124451-kachemak_spit.JPG</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Blue</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=JaRaEeZ">JaRaEeZ</author>
+  <homepage>http://opendesktop.org/content/show.php?content=41052</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>61</rating>
+  <downloads>204</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///41052-blue.png</installedfile>
+  <id>41052</id>
+  <releasedate>2006-06-18</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m41052-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/41052-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/41052-blue.png</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Golden Linux / smoke</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=JGRgermany">JGRgermany</author>
+  <homepage>http://opendesktop.org/content/show.php?content=146510</homepage>
+  <licence>1</licence>
+  <version>0.01</version>
+  <rating>50</rating>
+  <downloads>65</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///146510-Linux_Golden_smoke_1280x1024.jpg</installedfile>
+  <id>146510</id>
+  <releasedate>2011-11-04</releasedate>
+  <summary>Nice dark wallpaper with golden Linux and golden smoke/dust at the background</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m146510-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/146510-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/146510-Linux_Golden_smoke_1280x1024.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Desert NightFall</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=dapaflyer">dapaflyer</author>
+  <homepage>http://opendesktop.org/content/show.php?content=1559</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>2347</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///1559-NightFall.JPG</installedfile>
+  <id>1559</id>
+  <releasedate>2002-04-28</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m1559-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/1559-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/1559-NightFall.JPG</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Sidux</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=uggi">uggi</author>
+  <homepage>http://opendesktop.org/content/show.php?content=111974</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>136</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///111974-sidux 2.jpg</installedfile>
+  <id>111974</id>
+  <releasedate>2009-09-13</releasedate>
+  <summary>Another good Linux distro, based on Debian.&#xd;
+&#xd;
+I tried the xfce version and it was very light for old PC (Duron 600 256 Mb ram)&#xd;
+&#xd;
+Bye :-)&#xd;
+&#xd;
+&#xd;
+&#xd;
+Ps: There's also a KDE version.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m111974-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/111974-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/111974-sidux 2.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Gleimtunnel Berlin retro</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=MaxMustermann">MaxMustermann</author>
+  <homepage>http://opendesktop.org/content/show.php?content=84281</homepage>
+  <licence>1</licence>
+  <version>1</version>
+  <rating>54</rating>
+  <downloads>51</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///84281-BerlinGleimtunnelRetro.jpg</installedfile>
+  <id>84281</id>
+  <releasedate>2008-06-29</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m84281-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/84281-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/84281-BerlinGleimtunnelRetro.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Winter Window</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=pada">pada</author>
+  <homepage>http://opendesktop.org/content/show.php?content=10304</homepage>
+  <licence>3</licence>
+  <version></version>
+  <rating>62</rating>
+  <downloads>4664</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///10304-dscn3782.jpg</installedfile>
+  <id>10304</id>
+  <releasedate>2004-01-23</releasedate>
+  <summary>This morning it was really cold -27 C in Quebec city</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m10304-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/10304-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/10304-dscn3782.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Blue Sunset</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=EddyGL">EddyGL</author>
+  <homepage>http://opendesktop.org/content/show.php?content=99750</homepage>
+  <licence>0</licence>
+  <version>1.1</version>
+  <rating>63</rating>
+  <downloads>302</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///99750-BlueSunset-1600.jpeg</installedfile>
+  <id>99750</id>
+  <releasedate>2009-02-21</releasedate>
+  <summary>Just a photo I took of a sunset near home, which I colourized to make a nice desktop background, I think it works quite well with the default KDE 4 colour scheme.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m99750-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/99750-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/99750-BlueSunset-1600.jpeg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>SkyBlue</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=T0ntz4">T0ntz4</author>
+  <homepage>http://opendesktop.org/content/show.php?content=160101</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>56</rating>
+  <downloads>161</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///Wallpaper 2.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///Wallpaper 3.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///Wallpaper 4.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///Wallpaper 5.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///Wallpaper 1.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///</installedfile>
+  <id>160101</id>
+  <releasedate>2013-10-10</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m160101-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/160101-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/160101-Wallpapers.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Blue fall</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=epse">epse</author>
+  <homepage>http://opendesktop.org/content/show.php?content=69998</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>1470</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///69998-fall_blue.jpg</installedfile>
+  <id>69998</id>
+  <releasedate>2007-11-18</releasedate>
+  <summary>How do you like it?</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m69998-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/69998-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/69998-fall_blue.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Stardust</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=LiquidSky64">LiquidSky64</author>
+  <homepage>http://opendesktop.org/content/show.php?content=146720</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>558</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///1063238277.jpg</installedfile>
+  <id>146720</id>
+  <releasedate>2011-11-11</releasedate>
+  <summary>Made with gimp.&#xd;
+I hope you enjoy :)&#xd;
+Thanks for viewing and downloading.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m146720-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/146720-1.jpg</previewBig>
+  <payload>http://zupimages.net/up/2/1063238277.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Celtic Shield</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Untergunter">Untergunter</author>
+  <homepage>http://opendesktop.org/content/show.php?content=129401</homepage>
+  <licence>14</licence>
+  <version></version>
+  <rating>60</rating>
+  <downloads>59</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///Celtic_Shield_by_Untergunter.zip</installedfile>
+  <id>129401</id>
+  <releasedate>2010-08-27</releasedate>
+  <summary>Minimalistic wallpaper with a simple celtic knot, dark grey textured background and colored knot&#xd;
+&#xd;
+color: white (preview) - blue - emerald - red - purple - rubin - turquoise&#xd;
+&#xd;
+Resolutions 16:10&#xd;
+2560x1600&#xd;
+1920x1200&#xd;
+1680x1050&#xd;
+1440x900&#xd;
+1280x800&#xd;
+&#xd;
+Resolution 16:9&#xd;
+1920x1080&#xd;
+&#xd;
+Resolutions 4:3&#xd;
+1600x1200&#xd;
+1024x768</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m129401-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/129401-1.jpg</previewBig>
+  <payload>http://www.deviantart.com/download/177030482/Celtic_Shield_by_Untergunter.zip</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Fantasy World</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=g33z">g33z</author>
+  <homepage>http://opendesktop.org/content/show.php?content=54516</homepage>
+  <licence>3</licence>
+  <version></version>
+  <rating>56</rating>
+  <downloads>389</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///fantasy-world.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///fantasy-world.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/wallpapers///</installedfile>
+  <id>54516</id>
+  <releasedate>2007-03-13</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m54516-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/54516-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/54516-fantasy-world.zip</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>NOD/Debian</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=fhh">fhh</author>
+  <homepage>http://opendesktop.org/content/show.php?content=136956</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>55</rating>
+  <downloads>64</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///teksturo_ruÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂa_nod.jpg</installedfile>
+  <id>136956</id>
+  <releasedate>2011-01-02</releasedate>
+  <summary>One vision! One purpose! One distro!</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m136956-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/136956-1.jpg</previewBig>
+  <payload>http://dl.dropbox.com/u/14933853/teksturo_ru%C4%9Da_nod.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>debian sidux black lake of  netherworld</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=zenren">zenren</author>
+  <homepage>http://opendesktop.org/content/show.php?content=88528</homepage>
+  <licence>11</licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>283</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///88528-debian black lake sidux 1600.jpg</installedfile>
+  <id>88528</id>
+  <releasedate>2008-11-11</releasedate>
+  <summary>picture of black lake + debian logo and sidux</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m88528-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/88528-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/88528-debian black lake sidux 1600.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Debian is my choice</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=debianforumru">debianforumru</author>
+  <homepage>http://opendesktop.org/content/show.php?content=146802</homepage>
+  <licence>10</licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>80</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///h_1321259152_9616017_47f349b49a.png</installedfile>
+  <id>146802</id>
+  <releasedate>2011-11-14</releasedate>
+  <summary>Created in Blender</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m146802-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/146802-1.jpeg</previewBig>
+  <payload>http://storage5.static.itmages.ru/i/11/1114/h_1321259152_9616017_47f349b49a.png</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>night</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=alioruc">alioruc</author>
+  <homepage>http://opendesktop.org/content/show.php?content=76801</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>48</rating>
+  <downloads>310</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///76801-gece_1.jpg</installedfile>
+  <id>76801</id>
+  <releasedate>2008-03-12</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m76801-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/76801-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/76801-gece_1.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Autumn Fog</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Linuxtal">Linuxtal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=50435</homepage>
+  <licence>0</licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>1286</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///50435-autumn_fog.jpg</installedfile>
+  <id>50435</id>
+  <releasedate>2006-12-20</releasedate>
+  <summary>There is a Christmascard for you on my homepage.&#xd;
+&#xd;
+Greetings&#xd;
+Carl-Heinz&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m50435-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/50435-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/50435-autumn_fog.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Carbon</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=808szr">808szr</author>
+  <homepage>http://opendesktop.org/content/show.php?content=96659</homepage>
+  <licence>7</licence>
+  <version></version>
+  <rating>61</rating>
+  <downloads>201</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///96659-CarbonFiber2.jpg</installedfile>
+  <id>96659</id>
+  <releasedate>2009-01-06</releasedate>
+  <summary>Just a background Image nothing special..</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m96659-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/96659-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/96659-CarbonFiber2.jpg</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Blue Planet Rising</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=snowhog">snowhog</author>
+  <homepage>http://opendesktop.org/content/show.php?content=135010</homepage>
+  <licence>3</licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>384</downloads>
+  <installedfile>/home/victor/.kde/share/wallpapers///135010-BluePlaneRising1920x1200.jpg</installedfile>
+  <id>135010</id>
+  <releasedate>2010-11-15</releasedate>
+  <summary>Blue Planet Rising&#xd;
+Size: 1920x1200&#xd;
+&#xd;
+Credits:&#xd;
+&#xd;
+Top image from \&amp;quot;The Blue Ice Planet From The Cold Blue Solor System\&amp;quot; at:&#xd;
+http://1.bp.blogspot.com/_-1GM7VDiWKE/S_pkfxldSaI/AAAAAAAACB0/ASn1KjFt0A0/s1600/The+Blue+Ice+Planet+From+The+Cold+Blue+Solor+System.jpg&#xd;
+&#xd;
+Bottom image from \&amp;quot;Country Road Scenery Wallpaper\&amp;quot; at:&#xd;
+http://www.sky-wallpaper.com/free-wallpaper/free,wallpapers,43149.html&#xd;
+&#xd;
+Inspired by others, and credit respectfully acknowledged.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m135010-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/135010-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/135010-BluePlaneRising1920x1200.jpg</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

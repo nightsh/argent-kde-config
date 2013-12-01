@@ -1,0 +1,13 @@
+[Layout]
+DisplayNames=
+LayoutList=ro
+LayoutLoopCount=-1
+Model=pc101
+Options=terminate:ctrl_alt_bksp,nbsp:level3
+ResetOldOptions=true
+ShowFlag=false
+ShowLabel=true
+ShowLayoutIndicator=true
+ShowSingle=false
+SwitchMode=Global
+Use=true

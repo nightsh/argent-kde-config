@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Glow KDM</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=rezz">rezz</author>
+  <homepage>http://opendesktop.org/content/show.php?content=135012</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>1885</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/session_button-li.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/glow.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/icon-kde.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/pw-entry.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/session_button.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/system_button-li.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/user-entry-li.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/1920x1200.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/user-entry.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/system_button.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/pw-entry-li.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/caps.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/win-login.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///GlowKDM/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>135012</id>
+  <releasedate>2011-05-06</releasedate>
+  <summary>Login from KDM Dreams matching Ksplash theme added also!&#xd;
+&#xd;
+Set for resolution of 1920x1200 so this theme should work fine on most resolutions.&#xd;
+&#xd;
+[url]http://kde-look.org/content/show.php/Glow+Ksplash?content=135011[/url]&#xd;
+&#xd;
+Find some of my older work at [url]http://liquiddezign.com/look[/url]</summary>
+  <changelog>3 colors &#xd;
+&#xd;
+-Purple&#xd;
+-Red&#xd;
+-Green&#xd;
+&#xd;
+Matching ksplash themes uploaded also</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m135012-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/135012-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/135012-GlowKDM.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Grey Krita texture </name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=nowardev">nowardev</author>
+  <homepage>http://opendesktop.org/content/show.php?content=149672</homepage>
+  <licence>1</licence>
+  <version>1</version>
+  <rating>50</rating>
+  <downloads>198</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/session-button-highlight.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/session-button-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/capslock.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/screenshot.jpeg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/system-button-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/nowardev_kdm_v1.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/system-button-highlight.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/backgroundlogin.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/text-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/text-alternative.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/login.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/background.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///nowardev_kdm_v1/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>149672</id>
+  <releasedate>2012-03-23</releasedate>
+  <summary>based on helium but inverted with grey krita wallopaper </summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m149672-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/149672-1.jpeg</previewBig>
+  <payload>http://peace-packages.googlecode.com/files/nowardev_kdm_v1.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Eclips-Kdm</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=codicem">codicem</author>
+  <homepage>http://opendesktop.org/content/show.php?content=133279</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>61</rating>
+  <downloads>1727</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/Eclips.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/label.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/system-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/Eclips.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/system-over.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/session-overl.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/mainbox.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/session-over.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/session-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Eclips/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>133279</id>
+  <releasedate>2010-12-28</releasedate>
+  <summary>Eclips-Kdm&#xd;
+&#xd;
+You can use it with:&#xd;
+&#xd;
+Eclips-Wallpaper at:&#xd;
+http://kde-look.org/content/show.php?content=133278&#xd;
+&#xd;
+Eclips-Splash at:&#xd;
+http://kde-look.org/content/show.php?content=133280&#xd;
+&#xd;
+Please leave your comment and vote it.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m133279-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/133279-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/133279-Eclips-Kdm.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>KDE-4.10-KDM</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=vaxxipooh">vaxxipooh</author>
+  <homepage>http://opendesktop.org/content/show.php?content=156877</homepage>
+  <licence>3</licence>
+  <version>0.23b</version>
+  <rating>67</rating>
+  <downloads>1482</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/welcome-time-shadowed.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/wtfpl_license.txt</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/system_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/password.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/sessions.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/stripes.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/main-runner.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/sessions_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/new-kde.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/environment.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///KDE-4.10-KDM/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>156877</id>
+  <releasedate>2013-02-10</releasedate>
+  <summary>The Amazing KDE-4.10-KDM theme by: vaxxipooh !&#xd;
+&#xd;
+well its sunday and i really haven\'t not much to do so i decide to pimp my KDM login manager a bit ;-) -- here\'s the result . . .&#xd;
+&#xd;
+:: for 1920x1080 resolution ::&#xd;
+&#xd;
+Linux is like a tipi - no gates, no windows, apache inside!&#xd;
+&#xd;
+Have fun :-)&#xd;
+&#xd;
+**// if you like it you are free to leave a comment and&#xd;
+if you not like it you are free to leave a comment too!! //**&#xd;
+ &#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m156877-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/156877-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/156877-KDE-4.10-KDM.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Elegant Air KDM Theme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=downdiagonal">downdiagonal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=110756</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>13985</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/welcome-time-shadowed.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/system_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/background.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/password.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/sessions.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/background.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/elegant_air.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/main-runner.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/sessions_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/background.jpg.orig</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/environment.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Elegant-Air_KDM/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>110756</id>
+  <releasedate>2009-08-22</releasedate>
+  <summary>This is the KDM theme that I use. &#xd;
+Based on http://www.kde-look.org/content/show.php/Modified+BlueLinux+Theme?content=89428&#xd;
+&#xd;
+It fits very well with the default KDE 4.2+ splash screen.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m110756-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/110756-1.png</previewBig>
+  <payload>http://lyricsdownloader.googlecode.com/files/Elegant-Air_KDM.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Ricciolo</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=caig">caig</author>
+  <homepage>http://opendesktop.org/content/show.php?content=135880</homepage>
+  <licence>2</licence>
+  <version>0.3</version>
+  <rating>76</rating>
+  <downloads>2600</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/box.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/back.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/Ricciolo_II.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/button.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/ricciolo-down2.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/ricciolo-up2.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Ricciolo II/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>135880</id>
+  <releasedate>2011-03-20</releasedate>
+  <summary>My first try, completely vector graphics.&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m135880-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/135880-1.png</previewBig>
+  <payload>https://sites.google.com/site/caigfile/home/kde-look/KDM_Ricciolo_II.tar.gz?attredirects=0&amp;d=1</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Underworld KDM4 Theme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=SASq">SASq</author>
+  <homepage>http://opendesktop.org/content/show.php?content=110202</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>66</rating>
+  <downloads>1688</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/Underworld-screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/session.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/Underworld.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/button.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/LICENSE</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/widgets.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/background.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Underworld/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>110202</id>
+  <releasedate>2009-08-13</releasedate>
+  <summary>To install automatically:&#xd;
+1. Open the &amp;quot;System Settings&amp;quot; KDE application.&#xd;
+2. Choose the &amp;quot;Advanced&amp;quot; tab.&#xd;
+3. Go to &amp;quot;Login Manager&amp;quot;.&#xd;
+4. Choose &amp;quot;Theme&amp;quot; tab.&#xd;
+5. Click on the &amp;quot;Install new theme&amp;quot; button.&#xd;
+6. Choose the compressed file and click ok.&#xd;
+&#xd;
+To install manually:&#xd;
+1. Find the path where the KDM themes are installed. Usually it is: /usr/share/apps/kdm/themes but it depends on your disto and KDE installation.&#xd;
+2. Uncopmress the archive in that folder.&#xd;
+&#xd;
+You also may like the Underworld Bootsplash theme: http://www.kde-look.org/content/show.php?content=110258&#xd;
+&#xd;
+===================================&#xd;
+Image taken from [url]www.skins.be [/url](http://wallpaper.skins.be/kate-beckinsale/22486/1024x768)&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m110202-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/110202-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/110202-Underworld-KDM4.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>KDM Synergy</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=rezz">rezz</author>
+  <homepage>http://opendesktop.org/content/show.php?content=143662</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>64</rating>
+  <downloads>2200</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>143662</id>
+  <releasedate>2011-07-14</releasedate>
+  <summary>Synergy is a rework of KDM Inferno theme. Changes were made to the background and colors. If you enjoy this or any of my other work please donate. &#xd;
+&#xd;
+&#xd;
+Matching Splash!&#xd;
+------------------------&#xd;
+&#xd;
+[url]http://kde-look.org/content/show.php/Synergy+Splash?content=143663[/url]</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m143662-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/143662-1.jpg</previewBig>
+  <payload>http://liquiddezign.com/look/uploads/files/KDM-Synergy.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Caledonia KDM</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Malcer">Malcer</author>
+  <homepage>http://opendesktop.org/content/show.php?content=143130</homepage>
+  <licence>11</licence>
+  <version>1.0</version>
+  <rating>85</rating>
+  <downloads>30362</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/login_normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/logo.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/background.jpeg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/login_active.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/screenshot.jpeg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/system_over.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/caledonia.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/lineedit.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Caledonia-KDM/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>143130</id>
+  <releasedate>2012-09-04</releasedate>
+  <summary>[en]&#xd;
+&#xd;
+This is the official KDM theme for Caledonia:&#xd;
+http://kde-look.org/content/show.php/Caledonia?content=142424&#xd;
+&#xd;
+A minimalist and elegant theme, with a global \&amp;quot;welcome\&amp;quot;, an users list and the password bar.&#xd;
+&#xd;
+At the bottom, we have the clock and a unique button to access the sessions menu and more.&#xd;
+&#xd;
+---------&#xd;
+&#xd;
+[es]&#xd;
+&#xd;
+Ãste es el tema de KDM oficial de Caledonia:&#xd;
+http://kde-look.org/content/show.php/Caledonia?content=142424&#xd;
+&#xd;
+Un minimalista y elegante tema, con una bienvenida global, la lista de usuarios y la barra de contraseÃ±a.&#xd;
+&#xd;
+Abajo tenemos el reloj y un Ãºnico botÃ³n para acceder al menÃº de sesiones y mucho mÃ¡s. </summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m143130-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/143130-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/143130-Caledonia-KDM.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Anonymous</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Kush">Kush</author>
+  <homepage>http://opendesktop.org/content/show.php?content=155809</homepage>
+  <licence>4</licence>
+  <version>KDE 4</version>
+  <rating>53</rating>
+  <downloads>945</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///PaxHeader/Anonymous </installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///PaxHeader/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /KdmGreeterTheme.desktop~</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /Anonymous.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /session.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /.directory</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /background.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /box.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/KdmGreeterTheme.desktop~</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/Anonymous.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/session.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/.directory</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/background.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/box.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/button.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/widgets.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /PaxHeader/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /button.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /widgets.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Anonymous /</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>155809</id>
+  <releasedate>2012-12-13</releasedate>
+  <summary>Just a fast little theme i made up, I can update or create more, email me with requests :D</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m155809-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/155809-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/155809-Anonymous .tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>lzfy</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=linuxfever">linuxfever</author>
+  <homepage>http://opendesktop.org/content/show.php?content=90432</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>84</rating>
+  <downloads>5431</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/date.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/session.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/session-pl.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/session-act.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/system-act_01.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/system-pl.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/bg.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/lzfy-kde4.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///lzfy-kde4/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>90432</id>
+  <releasedate>2008-10-01</releasedate>
+  <summary>I did not like the default KDE4-KDM theme so I decided to port one of my favourite KDE3-KDM themes to KDE4. The original great theme belongs to lzfy (http://www.kde-look.org/usermanager/search.php?username=lzfy).&#xd;
+&#xd;
+User Shuren (http://kde-look.org/usermanager/search.php?username=Shuren) kindly provided a slackware-based modification, which you can find here:&#xd;
+&#xd;
+http://download.tuxfamily.org/greedydotfly/temp/lzfyslack-kde4.tar.gz&#xd;
+&#xd;
+&#xd;
+Enjoy and thanks for voting.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m90432-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/90432-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/90432-lzfy-kde4.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Already awake?</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=prostosuper">prostosuper</author>
+  <homepage>http://opendesktop.org/content/show.php?content=140118</homepage>
+  <licence>0</licence>
+  <version>0.1.0</version>
+  <rating>70</rating>
+  <downloads>588</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/greeting.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/already_awake.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/background.gif</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/CHANGELOG.txt</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///already awake/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>140118</id>
+  <releasedate>2012-02-02</releasedate>
+  <summary>Already awake?&#xd;
+----------------------------------&#xd;
+Yes. "Already awake?" is a KDM4 theme with white background and red text. Also, check out splash screen, that perfectly fits to this theme (http://kde-look.org/content/show.php/Your+tea%2C+buddy?content=140191).&#xd;
+&#xd;
+Installation&#xd;
+----------------------------------&#xd;
+1. Download theme&#xd;
+2. Navigate to "System Settings"&#xd;
+3. At the "System Administration" section find "Login Screen" button&#xd;
+4. At "Login Screen" choose "Theme" tab&#xd;
+5. Choose "Install new theme" or press Alt+N hotkey&#xd;
+6. Choose downloaded theme and apply it&#xd;
+7. Provide your root password, if need&#xd;
+8. Click "Apply" in the right bottom corner or merely press Alt+A hotkey&#xd;
+Next time, when you login, you'll see new theme&#xd;
+&#xd;
+Other notes&#xd;
+----------------------------------&#xd;
+Arch Linux users can install this package from AUR ([url]http://aur.archlinux.org/packages.php?ID=48125[/url])&#xd;
+&#xd;
+Feedback&#xd;
+----------------------------------&#xd;
+You are able to send me emails on kyrylosilin@gmail.com</summary>
+  <changelog>0.1.0 (March 20, 2011)&#xd;
+* Initial release</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m140118-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/140118-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/140118-already awake-0.1.0.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Klingon KDM</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=vaxxipooh">vaxxipooh</author>
+  <homepage>http://opendesktop.org/content/show.php?content=139729</homepage>
+  <licence>3</licence>
+  <version>0.1</version>
+  <rating>60</rating>
+  <downloads>511</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/welcome-time-shadowed.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/system_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/klingon_kdm.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/background.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/password.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/sessions.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/main-runner.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/sessions_inactive.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/environment.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///Klingon_KDM/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>139729</id>
+  <releasedate>2011-03-10</releasedate>
+  <summary>Klingon KDM theme&#xd;
+&#xd;
+The Ultimate KDM login theme for the hard core Klingon Warrior!&#xd;
+&#xd;
+Only for resolution: 1920x1080&#xd;
+&#xd;
+I found this cool pic on the net - dunno who made it but it\'s rather nice &#xd;
+so i decide to made another Star Trek type KDM login theme ...&#xd;
+&#xd;
+Comments, beer or Space Tobacco are welcome ;-)&#xd;
+&#xd;
+We Klingons believe as you do -- the sick should die.  Only the strong&#xd;
+should live.&#xd;
+		&#xd;
+                      -- Kras, Fridays Child, stardate 3497.2&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m139729-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/139729-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/139729-Klingon_KDM.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>sci-fi-17</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=starwolf">starwolf</author>
+  <homepage>http://opendesktop.org/content/show.php?content=117544</homepage>
+  <licence>3</licence>
+  <version>1.7</version>
+  <rating>65</rating>
+  <downloads>1146</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/screenshot.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/rightTop.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/leftBottom.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/left.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/top.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/scifi17.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/input-shadow.svg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/session.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/scifinw.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/center.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/kde.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/footer.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/footerBorder.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/right.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/Thumbs.db</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/rightBottom.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/leftTop.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/bottom.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///sci17kdm/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>117544</id>
+  <releasedate>2009-12-23</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m117544-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/117544-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/117544-sci17kdm.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Umbrella 2 KDM4</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=verona0000">verona0000</author>
+  <homepage>http://opendesktop.org/content/show.php?content=118732</homepage>
+  <licence>0</licence>
+  <version>1.0b</version>
+  <rating>61</rating>
+  <downloads>1263</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/label.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/button-enter.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/system-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/system-over.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/button-over.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/mainbox.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/session-over.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/button-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/session-normal.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/userbox.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/umbrella2.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/background.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///umbrella login 2/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>118732</id>
+  <releasedate>2010-01-18</releasedate>
+  <summary>This is an Umbrella (Resident Evil) theme for the fans! This is for that splash: http://www.kde-look.org/content/show.php?content=118733 &#xd;
+This work ( splash and login) based on NewEssenceFinal from Codicem (I love that theme, thanks!). If you have any problems with the theme, just write here. And dont forget to vote, if you like it (or not?) :) &#xd;
+&#xd;
+I create this theme for myself (yes, I am a RE and SH fan too), but I likes to share my work. &#xd;
+The screenshot created from the theme elements by GIMP, coz I cannot take a picture when it is in use. &#xd;
+&#xd;
+And why Umbrella 2? Coz I started to work 2 themes at same time, but I finished this first.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m118732-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/118732-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/118732-umbrella login 2.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Steel KDM4</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Max11D">Max11D</author>
+  <homepage>http://opendesktop.org/content/show.php?content=154346</homepage>
+  <licence>1</licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>630</downloads>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/screenshot.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/user.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/steel.xml</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/KdmGreeterTheme.desktop</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/power.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/wallpapers/background.jpg</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/wallpapers/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/combination.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/backplate.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/arrow.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/password_field.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/system.png</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/arrow.blend</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///steel/</installedfile>
+  <installedfile>/usr/share/kde4/apps/kdm/themes///</installedfile>
+  <id>154346</id>
+  <releasedate>2012-09-30</releasedate>
+  <summary>A simple dark login theme.  It was designed at 2048x1152 but scales all the way down to 640x480.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m154346-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/154346-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/154346-steel.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

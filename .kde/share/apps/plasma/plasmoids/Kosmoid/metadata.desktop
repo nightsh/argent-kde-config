@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Kosmoid
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=applications-system
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+
+X-KDE-PluginInfo-Author=Sebastian Schultz
+X-KDE-PluginInfo-Email=sebastian2.schultz (at) st.ovgu (dot) de
+X-KDE-PluginInfo-Name=Kosmoid
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Network
+X-KDE-PluginInfo-Depends=ptqt4/pykde4
+X-KDE-PluginInfo-Licence=GPL
+X-KDE-PluginInfo-EnabledByDefault=true

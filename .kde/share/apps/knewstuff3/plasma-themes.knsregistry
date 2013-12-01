@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Helium</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mcder">mcder</author>
+  <homepage>http://opendesktop.org/content/show.php?content=125471</homepage>
+  <licence>14</licence>
+  <version>4.1.0</version>
+  <rating>85</rating>
+  <downloads>17444</downloads>
+  <installedfile>/tmp/kde-victor///125471-Helium.tar.xz</installedfile>
+  <id>125471</id>
+  <releasedate>2013-03-30</releasedate>
+  <summary>Light theme for plasma desktop&#xd;
+&#xd;
+Tema Ligero para el escritorio de plasma&#xd;
+&#xd;
+translated with google translator&#xd;
+&#xd;
+please donate!!!&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m125471-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/125471-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/125471-Helium.tar.xz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>H2O Black</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=naruto-uzumaki">naruto-uzumaki</author>
+  <homepage>http://opendesktop.org/content/show.php?content=136498</homepage>
+  <licence>1</licence>
+  <version>4.6.1</version>
+  <rating>72</rating>
+  <downloads>2395</downloads>
+  <installedfile>/tmp/kde-victor///136498-H2O Black.tar.gz</installedfile>
+  <id>136498</id>
+  <releasedate>2011-04-04</releasedate>
+  <summary>beautiful theme with a touch of black transparent&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m136498-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/136498-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/136498-H2O Black.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Peruvian Torch</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=PeruvianTorch">PeruvianTorch</author>
+  <homepage>http://opendesktop.org/content/show.php?content=157140</homepage>
+  <licence>1</licence>
+  <version>2.5</version>
+  <rating>58</rating>
+  <downloads>883</downloads>
+  <installedfile>/tmp/kde-victor///157140-Peruvian_Torch 2.5.tar.gz</installedfile>
+  <id>157140</id>
+  <releasedate>2013-06-06</releasedate>
+  <summary>This is a dark translucent themepack. &#xd;
+I'm on Sabayon and have made this using COMPIZ It does however look somewhat different using kwin so i just wanted you all to be aware of that.&#xd;
+&#xd;
+&#xd;
+Plasma Theme&#xd;
+The plasma i haven't made any original but i have picked what i liked of other themes and made a few changes to them. So to all the original authors a great thank and kudos for the brilliant job! &#xd;
+&#xd;
+&#xd;
+QtCurve&#xd;
+The Qtcurve i've assembled myself and is rather transparent so in order to  utilize in this pack you need to have BLUR enabled in your window manager.&#xd;
+&#xd;
+&#xd;
+Color-Scheme&#xd;
+The color-scheme i also assembled and it's as you can see also very dark but with very clear strong colors so that all is very visible!&#xd;
+&#xd;
+Emerald&#xd;
+As with the plasma i have only taken bits and pieces and made some alterations to it. Again, thank you :D&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m157140-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/157140-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/157140-Peruvian_Torch 2.5.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Arezzo</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=ireko">ireko</author>
+  <homepage>http://opendesktop.org/content/show.php?content=84403</homepage>
+  <licence>12</licence>
+  <version>0.6</version>
+  <rating>87</rating>
+  <downloads>25596</downloads>
+  <installedfile>/tmp/kde-victor///84403-Arezzo.tar.gz</installedfile>
+  <id>84403</id>
+  <releasedate>2008-08-09</releasedate>
+  <summary>This is my next theme, it has glazed look  &#xd;
+&#xd;
+Now it has only few elements, but I'm going to make it better and better. Comments are welcome :)&#xd;
+&#xd;
+sorry for my bad english</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m84403-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/84403-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/84403-Arezzo.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Glaze</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=ivancukic">ivancukic</author>
+  <homepage>http://opendesktop.org/content/show.php?content=83976</homepage>
+  <licence>1</licence>
+  <version>2.0</version>
+  <rating>85</rating>
+  <downloads>3257</downloads>
+  <installedfile>/tmp/kde-victor///83976-glaze-2.tar.gz</installedfile>
+  <id>83976</id>
+  <releasedate>2010-11-21</releasedate>
+  <summary>Glaze is a very slim and transparent theme.&#xd;
+&#xd;
+---&#xd;
+&#xd;
+I don't like thick themes with opaque backgrounds (OK, I did make Spoons, but that was another story).&#xd;
+&#xd;
+This theme is even slimmer than the Slim Glow. It looks great on simple wallpapers like the one in the screenshot.&#xd;
+&#xd;
+As you can see, the clock is a bit strange - instead of the hour hand, you have a moving hole in the clock.&#xd;
+&#xd;
+&#xd;
+*Further development*&#xd;
+I don't really have the time lately to work on this theme.&#xd;
+&#xd;
+If you would like to help finish it, visit http://www.gitorious.org/kde-plasma-themes/glaze and start 'hacking'. :)&#xd;
+&#xd;
+For more info on 'outsourcing', see http://ivan.fomentgroup.org/blog/2010/11/14/ascii-plasma-theme-and-others/&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m83976-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/83976-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/83976-glaze-2.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>SkyBlue</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=T0ntz4">T0ntz4</author>
+  <homepage>http://opendesktop.org/content/show.php?content=160033</homepage>
+  <licence>1</licence>
+  <version>2.1</version>
+  <rating>53</rating>
+  <downloads>975</downloads>
+  <installedfile>/tmp/kde-victor///160033-SkyBlue.tar.gz</installedfile>
+  <id>160033</id>
+  <releasedate>2013-11-14</releasedate>
+  <summary>Description:&#xd;
+This is a SkyBlue Plasma Theme.&#xd;
+Version 2.1 should be ready and compatible with the latest KDE 4.10. Tested Ubuntu 13.10 &amp;amp; KDE 4.10.5.&#xd;
+&#xd;
+&#xd;
+Check also:&#xd;
+&#xd;
+-SkyBlue KSplash: http://kde-look.org/content/show.php/SkyBlue-KSplash?content=160025&#xd;
+&#xd;
+-SkyBlue KDM: http://kde-look.org/content/show.php/Skyblue-4.10-KDM?content=160029&#xd;
+&#xd;
+&#xd;
+If you see problems, tell me :)</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m160033-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/160033-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/160033-SkyBlue.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Serious</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=tehnick">tehnick</author>
+  <homepage>http://opendesktop.org/content/show.php?content=112767</homepage>
+  <licence>1</licence>
+  <version>0.0.3</version>
+  <rating>62</rating>
+  <downloads>897</downloads>
+  <installedfile>/tmp/kde-victor///112767-serious-0.0.3.tar.gz</installedfile>
+  <id>112767</id>
+  <releasedate>2010-05-08</releasedate>
+  <summary>Serious&#xd;
+&#xd;
+My simple theme. The basic idea: transparent plasmoids without visible borders, flat items, minimum of gradients, gray and cold colors. Theme is designed for using with disabled visual effects (compositing).&#xd;
+&#xd;
+Enjoy</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m112767-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/112767-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/112767-serious-0.0.3.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Diamond</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=staffck1">staffck1</author>
+  <homepage>http://opendesktop.org/content/show.php?content=153930</homepage>
+  <licence>1</licence>
+  <version>2.0</version>
+  <rating>88</rating>
+  <downloads>4368</downloads>
+  <installedfile>/tmp/kde-victor///153930-Diamond.tar.gz</installedfile>
+  <id>153930</id>
+  <releasedate>2013-09-02</releasedate>
+  <summary>Transparent theme for KDE 4.x&#xd;
+&#xd;
+Please donate! &#xd;
+&#xd;
+&#xd;
+P.S. Council to install:Â Â Â  &#xd;
+      - &amp;quot;Diamond 1.0.1&amp;quot;, Window Decoration Aurorae section&#xd;
+      - &amp;quot;Diamond_Green 1.0&amp;quot;, KDE 4.x Splash Screen section&#xd;
+      - &amp;quot;Diamond KDM&amp;quot;, KDM Themes section</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m153930-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/153930-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/153930-Diamond.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Netbook Plasma Theme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=martijns">martijns</author>
+  <homepage>http://opendesktop.org/content/show.php?content=92433</homepage>
+  <licence>2</licence>
+  <version>0.1</version>
+  <rating>76</rating>
+  <downloads>773</downloads>
+  <installedfile>/tmp/kde-victor///92433-NetbookTheme.tar.gz</installedfile>
+  <id>92433</id>
+  <releasedate>2008-11-02</releasedate>
+  <summary>This theme is based on the Elegance plasma theme written by AdrienV. I managed to lower significantly the quality of that theme, yet for a good purpose: enhancing significantly the usable screen area. All that wobbly bling window management is all very nice, as long as there is room for those windows to wobble. That ain't exactly true on my 12' screen. Most of my windows are simply maximized.&#xd;
+&#xd;
+So the creation of a taskbar theme (the only thing I changed from the Elegance theme) that enables better oversight of what window is currently in use. The 'tab' like aspect provided by this theme is most effective by taking away the redundant title bar and windows borders of all 'normal windows'. For doing this:&#xd;
+ - go to your KDE system settings&#xd;
+ - Window behavior -> Window Specific&#xd;
+ - make a 'new' rule&#xd;
+ - Description eg: 'One to maximize them all'&#xd;
+ - Select 'Match whole window class' (dont know if its necessary but whatever..)&#xd;
+ - In 'Windows Extra' select 'Normal Window'&#xd;
+ - In Geometry select both 'maximize hor..' and 'Maximize ver..' do 'Apply Initially' and check the mark next to it&#xd;
+ - In preference check 'no border' do 'Apply Initially' and check on the right side again&#xd;
+ - check ok on the bottom of the screen and thereafter the apply button&#xd;
+&#xd;
+From this point on all your new openend windows will be maximized and without title bar. For those that still need the close button, this function can be done from the taskbar (right click and select close). Not that some applications (I  haven't tested many yet, but Inkscape and its object properties dialog are one of them) have toolkit or dialogs that are identified as 'normal windows' (although transient). They consequently maximize as well. Solutions here are welcome.&#xd;
+&#xd;
+The 'tab' aspect only works nicely with the Oxygen theme, and even there it has glitches. The oxygen theme has a gradient over the size of the screen I cannot render in the plasma theme. If you change the colors of your oxygen theme, the plasma theme also doesnt change. Finally the theme also only renders nicely when the panel is on the top of the screen. Therefore this theme is only but a simple demonstrator of what would really be nice: a Tab-taskmanager plasmoid (written with decent QT4 widgets).</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m92433-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/92433-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/92433-NetbookTheme.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Oxyzone</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=hash87">hash87</author>
+  <homepage>http://opendesktop.org/content/show.php?content=105796</homepage>
+  <licence>1</licence>
+  <version>1.3</version>
+  <rating>87</rating>
+  <downloads>4163</downloads>
+  <installedfile>/tmp/kde-victor///105796-Oxyzone.tar.gz</installedfile>
+  <id>105796</id>
+  <releasedate>2009-07-26</releasedate>
+  <summary>Oxyzone is a simple mix of various themes found here in kde-look.org. &#xd;
+&#xd;
+Full credit goes to the authors of respective themes.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m105796-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/105796-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/105796-Oxyzone.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Elegance</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=AdrienV">AdrienV</author>
+  <homepage>http://opendesktop.org/content/show.php?content=78034</homepage>
+  <licence>2</licence>
+  <version>0.7</version>
+  <rating>87</rating>
+  <downloads>12630</downloads>
+  <installedfile>/tmp/kde-victor///78034-Elegance_0.7.tar.gz</installedfile>
+  <id>78034</id>
+  <releasedate>2008-09-25</releasedate>
+  <summary>ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂlÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©gance is an effort to make an elegant theme for plasma.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m78034-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/78034-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/78034-Elegance_0.7.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Black Pearl</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Deathmachine">Deathmachine</author>
+  <homepage>http://opendesktop.org/content/show.php?content=161149</homepage>
+  <licence>1</licence>
+  <version>1.0.3</version>
+  <rating>58</rating>
+  <downloads>140</downloads>
+  <installedfile>/tmp/kde-victor///161149-Black_Pearl.tar.gz</installedfile>
+  <id>161149</id>
+  <releasedate>2013-10-23</releasedate>
+  <summary>Simple transparent black with the mix of aqua blue. Hope you like it.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m161149-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/161149-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/161149-Black_Pearl.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Transparent</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=sima84">sima84</author>
+  <homepage>http://opendesktop.org/content/show.php?content=127323</homepage>
+  <licence>1</licence>
+  <version>0.3</version>
+  <rating>82</rating>
+  <downloads>1608</downloads>
+  <installedfile>/tmp/kde-victor///127323-Transparent.tar.gz</installedfile>
+  <id>127323</id>
+  <releasedate>2010-10-02</releasedate>
+  <summary></summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m127323-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/127323-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/127323-Transparent.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Ember</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=garthecho">garthecho</author>
+  <homepage>http://opendesktop.org/content/show.php?content=124303</homepage>
+  <licence>1</licence>
+  <version>2.0</version>
+  <rating>86</rating>
+  <downloads>1107</downloads>
+  <installedfile>/tmp/kde-victor///124303-Ember-2.0.tar.gz</installedfile>
+  <id>124303</id>
+  <releasedate>2010-09-07</releasedate>
+  <summary>A flat black and transparent plasma theme.  It's very much based on 'Perfection' by Lukas Gianinazzi, with some borrowed elements from 'Glassified' by M. Nowaczyk.  Hope you enjoy.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m124303-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/124303-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/124303-Ember-2.0.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Androbit</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=nameless89">nameless89</author>
+  <homepage>http://opendesktop.org/content/show.php?content=123524</homepage>
+  <licence>1</licence>
+  <version>4.11</version>
+  <rating>84</rating>
+  <downloads>11431</downloads>
+  <installedfile>/tmp/kde-victor///Androbit-4.11.tar.gz</installedfile>
+  <id>123524</id>
+  <releasedate>2013-08-04</releasedate>
+  <summary>The best KDE4 plasma theme. Inspired by Android, developed with software ergonomy.&#xd;
+&#xd;
+Please vote with [+] for my theme!&#xd;
+&#xd;
+Donate my work:&#xd;
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=CTWHAB5X988NW&#xd;
+&#xd;
+Tested on: 4.4.5 - 4.11&#xd;
+&#xd;
+Designer: Makay JÃ³zsef&#xd;
+Web: http://androbit.net&#xd;
+Mail: makay (at] androbit (dot) org&#xd;
+&#xd;
+Facebook: http://www.facebook.com/androbit&#xd;
+Google+: http://androbit.net/gplus</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m123524-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/123524-1.jpg</previewBig>
+  <payload>http://androbit.org/downloads/Androbit-4.11.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Maya</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=airwolf232">airwolf232</author>
+  <homepage>http://opendesktop.org/content/show.php?content=158135</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>313</downloads>
+  <installedfile>/tmp/kde-victor///158135-Maya.tar.gz</installedfile>
+  <id>158135</id>
+  <releasedate>2013-04-10</releasedate>
+  <summary>Transparent theme based on some of my favorite themes</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m158135-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/158135-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/158135-Maya.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Nirvana</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=airwolf232">airwolf232</author>
+  <homepage>http://opendesktop.org/content/show.php?content=158136</homepage>
+  <licence>1</licence>
+  <version>1.1</version>
+  <rating>50</rating>
+  <downloads>388</downloads>
+  <installedfile>/tmp/kde-victor///158136-Nirvana.tar.gz</installedfile>
+  <id>158136</id>
+  <releasedate>2013-04-10</releasedate>
+  <summary>semi-transparent theme</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m158136-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/158136-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/158136-Nirvana.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Underworld</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=DarkBeastOfPrey">DarkBeastOfPrey</author>
+  <homepage>http://opendesktop.org/content/show.php?content=160834</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>414</downloads>
+  <installedfile>/tmp/kde-victor///160834-Underworld.tar.gz</installedfile>
+  <id>160834</id>
+  <releasedate>2013-11-06</releasedate>
+  <summary>Dark black KDE plasma theme.&#xd;
+Inspired by HarrySnapperOrgans' screenlet clock octagon, thanks.&#xd;
+&#xd;
+Maybe you have to restart your computer cause of the different used angles in the analog meter.&#xd;
+&#xd;
+Tested with KDE 4.11.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m160834-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/160834-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/160834-Underworld.tar.gz</payload>
+  <status>updateable</status>
+ </stuff>
+ <stuff category="">
+  <name>NoRa-T</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Grely">Grely</author>
+  <homepage>http://opendesktop.org/content/show.php?content=158261</homepage>
+  <licence>1</licence>
+  <version>1.4</version>
+  <rating>56</rating>
+  <downloads>95</downloads>
+  <installedfile>/tmp/kde-victor///158261-NoRa-T1.4.tar.gz</installedfile>
+  <id>158261</id>
+  <releasedate>2013-04-19</releasedate>
+  <summary>Transparent version NoRa theme</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m158261-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/158261-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/158261-NoRa-T1.4.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Tragedy</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=jmtodaro">jmtodaro</author>
+  <homepage>http://opendesktop.org/content/show.php?content=101707</homepage>
+  <licence>1</licence>
+  <version>2.0.1</version>
+  <rating>86</rating>
+  <downloads>5275</downloads>
+  <installedfile>/tmp/kde-victor///101707-tragedy.tar.gz</installedfile>
+  <id>101707</id>
+  <releasedate>2010-03-14</releasedate>
+  <summary>A darkish theme for Plasma.&#xd;
+&#xd;
+---------------------------------------&#xd;
+&#xd;
+Aurorae/DeKorator Window Decorations &amp;amp; KDE Color Scheme: http://jmtodaro.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=46:tragedy-desktop-theme&amp;amp;catid=34:downloads&amp;amp;Itemid=58&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m101707-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/101707-1.jpeg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/101707-tragedy.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Oxygen-Genesis</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=XenoPL">XenoPL</author>
+  <homepage>http://opendesktop.org/content/show.php?content=147692</homepage>
+  <licence>1</licence>
+  <version>0.6</version>
+  <rating>67</rating>
+  <downloads>1023</downloads>
+  <installedfile>/tmp/kde-victor///Oxygen-Genesis.zip</installedfile>
+  <id>147692</id>
+  <releasedate>2013-04-28</releasedate>
+  <summary>Intro&#xd;
+==========&#xd;
+Here's remake of the KDE 4.0 Oxygen theme. I thinks it's mostly complete. It is fully up to 4.10 standards. It contains elemnets of KDE 4.0 Oxygen theme and pdated with few pieces from KDE 4.7 and later Oxygen themes for elements not present in original theme.&#xd;
+All the credits for original concept and most of the artwork goes to the Oxygen team.&#xd;
+Several elements have been redone from scratch to use abilities provided by current plasma desktop. I have replaced most of the bitmap components with pure vector/SVG, This change resulted in better shapes and smoother transitions. Also all the scalable items like progress bar look much better now without visible stretches and misproportions.&#xd;
+&#xd;
+While I have tried to make it as close to the original as it is possible, it is not identical to old one. Due to changes in plasma-desktop and how the things are handled it is not possible to make plasmoid configuration handle as it was in KDE 4.0.&#xd;
+Few items like analog clock and analog meter were replaced with current ones, as they fit the theme much better then original ones.&#xd;
+My theme also has thinner widget borders to not waste screen estate. Shadows got thinner too. Old ones looked weird with blur effect enabled, adding extra border around widgets with sharp edge instead of gentle fade they had to be. Now the shadows are still visible, but shouldn't be so annoying. Another change is translucent background used in &amp;quot;Folder View&amp;quot; plasmoid. Original theme used regular background, which looked way too heavy.&#xd;
+Pager is the blue-tinted one from current Oxygen theme, just because I like it more than the flat-white one.&#xd;
+&#xd;
+I've decided to include colorful systray icons pack made by Kevin Kofler by default. Many thanks to him for this set :) If you want monochrome icons back, just rename or remove icons subddir located in this theme dicrectory.&#xd;
+&#xd;
+Installation:&#xd;
+==============&#xd;
+Copy the content of the zip file into ~/.kde/share/apps/desktoptheme/ for your user only or to the /usr/share/kde4/apps/desktoptheme/ dir for system-wide installation (root priviledges required).&#xd;
+&#xd;
+Bugs and possible TODOs:&#xd;
+===========================&#xd;
+- Worse buttons readability - unfortunately I had to make compromise I don't  really like. There's no seprate setings for text color on buttons, entry fields (date in calendar, and some plasmoids (AkoNotes). I tried to make 'em all looking reasonably well, while keep text readable. There'll be a fix when plasma devs decouple those entries.&#xd;
+&#xd;
+&#xd;
+I hope you will enjoy it ;)&#xd;
+/Stan aka 'Xeno'</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m147692-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/147692-1.jpg</previewBig>
+  <payload>http://www.x-s.com.pl/Oxygen-Genesis.zip</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Glassified</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=painkiller101">painkiller101</author>
+  <homepage>http://opendesktop.org/content/show.php?content=81388</homepage>
+  <licence>1</licence>
+  <version>4.1.0</version>
+  <rating>87</rating>
+  <downloads>46433</downloads>
+  <installedfile>/tmp/kde-victor///81388-Glassified.tar.gz</installedfile>
+  <id>81388</id>
+  <releasedate>2010-02-15</releasedate>
+  <summary>This is a glassified Plasma Theme.&#xd;
+&#xd;
+Version 4 should be ready and compatible with the latest KDE SC 4.4.&#xd;
+If you can find problems or bugs. tell me please.&#xd;
+&#xd;
+&#xd;
+See also:&#xd;
+Glassified Splash&#xd;
+http://kde-look.org/content/show.php?content=84124&#xd;
+&#xd;
+Glassified KDM&#xd;
+http://kde-look.org/content/show.php?content=99841&#xd;
+&#xd;
+I hope you like it and leave a comment if you want!&#xd;
+&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m81388-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/81388-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/81388-Glassified.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Tibanna</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=TheRob">TheRob</author>
+  <homepage>http://opendesktop.org/content/show.php?content=115322</homepage>
+  <licence>1</licence>
+  <version>for bespin</version>
+  <rating>88</rating>
+  <downloads>4473</downloads>
+  <installedfile>/tmp/kde-victor///115322-Tibanna.tar.gz</installedfile>
+  <id>115322</id>
+  <releasedate>2010-01-05</releasedate>
+  <summary>A plasma theme to fit in with bespin.&#xd;
+&#xd;
+any insults very welcome!&#xd;
+&#xd;
+features:&#xd;
+&#xd;
+-follows color scheme from kde color center.&#xd;
+-fits in with bespin&#xd;
+&#xd;
+...it\\\'s still very incomplete and not final&#xd;
+design so.... oh, and it\\\'s made under kde-svn&#xd;
+so not sure if it will work in stable.&#xd;
+&#xd;
+[b]It has been brought to my attention&#xd;
+that this theme does not work in stable (4.3)[/b]</summary>
+  <changelog>[b]6.1[/b]&#xd;
+-new widgets: pager, buttons, some other&#xd;
+minor widgets&#xd;
+-bugs: inkscape didn't let me set the&#xd;
+ active hovered element id's to selected+hover so it renders nothing&#xd;
+when hovering an active view element,anybody know why?&#xd;
+-full screenshot: [url]http://img63.imageshack.us/img63/5906/shoty.png[/url]&#xd;
+&#xd;
+[b]31.12[/b]&#xd;
+-fixes: tasks follows color scheme now&#xd;
+-full shot: [url]http://img121.imageshack.us/img121/5256/shots.png[/url]&#xd;
+&#xd;
+Sorry, I have no time to make a dark ss&#xd;
+&#xd;
+[b]30.12[/b]&#xd;
+-minor overall improvements.&#xd;
+-full shot:&#xd;
+[url]http://img255.imageshack.us/img255/5906/shoty.png[/url]&#xd;
+&#xd;
+(the clock in the shot is beclock)&#xd;
+&#xd;
+[b]21.12[/b] &#xd;
+-made the clock easier to understand.&#xd;
+-improved tasks and tray.&#xd;
+-new widgets: progressbar, made this&#xd;
+one real minimalistic as I didn't manage&#xd;
+to get a advanced looking to be good&#xd;
+at small size (check out the playwolf&#xd;
+in the panel for confirmation).&#xd;
+-full screenshot: [url]http://img687.imageshack.us/img687/3269/shotg.png[/url]&#xd;
+&#xd;
+03.12 -fixed a glitch in a frame.&#xd;
+      -new widgets: sliders&#xd;
+full screenshots:&#xd;
+[url]http://img69.imageshack.us/img69/7900/shotlight.png[/url]&#xd;
+[url]http://img69.imageshack.us/img69/3972/shotk.png[/url]&#xd;
+&#xd;
+30.11, -new clock (includes desing ideas&#xd;
+of Thomas LÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼bking)&#xd;
+       -new bg's now follow color scheme.&#xd;
+       -overall design improvements, actually spended some time on making this&#xd;
+release. Thx to Thomas for good guidelines!&#xd;
+&#xd;
+full screenies:&#xd;
+&#xd;
+[url]http://img228.imageshack.us/img228/6531/shotnewclock2.png[/url]&#xd;
+&#xd;
+[url]http://img228.imageshack.us/img228/1600/shotnewclock.png[/url]&#xd;
+&#xd;
+&#xd;
+25.11, -fixed a glitch in upper corner.&#xd;
+       -improved more "mainstream" tasks.&#xd;
+       -panel follows colors (heh, buggy as h**l, will improve, please bug me)&#xd;
+       -full screenshots here: http://img121.imageshack.us/img121/5043/shotnt4.png&#xd;
+       -and here: http://img187.imageshack.us/img187/9471/shotnt42.png&#xd;
+</changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m115322-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/115322-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/115322-Tibanna.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Volatile</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=bionegative">bionegative</author>
+  <homepage>http://opendesktop.org/content/show.php?content=128110</homepage>
+  <licence>1</licence>
+  <version>1.8</version>
+  <rating>77</rating>
+  <downloads>5627</downloads>
+  <installedfile>/tmp/kde-victor///128110-Volatile-v1.8.tar.gz</installedfile>
+  <id>128110</id>
+  <releasedate>2011-07-24</releasedate>
+  <summary>Volatile plasma theme.&#xd;
+&#xd;
+Looks great on dark or colorful wallpapers, be sure to enable the blur effect if you are using compiz instead of kwin.&#xd;
+&#xd;
+&#xd;
+Credits to the authors of glassified and vistar7.&#xd;
+&#xd;
+SEE ALSO: The emerald theme&#xd;
+http://kde-look.org/content/show.php/Volatile?content=127543</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m128110-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/128110-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/128110-Volatile-v1.8.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Xenon</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=mcder">mcder</author>
+  <homepage>http://opendesktop.org/content/show.php?content=125422</homepage>
+  <licence>1</licence>
+  <version>2.0.4</version>
+  <rating>82</rating>
+  <downloads>14242</downloads>
+  <installedfile>/tmp/kde-victor///D6477137_642_17855644</installedfile>
+  <id>125422</id>
+  <releasedate>2011-11-28</releasedate>
+  <summary>Plasma theme for dark colors&#xd;
+&#xd;
+Tema para plasma de colores oscuros</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m125422-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/125422-1.jpeg</previewBig>
+  <payload>https://www.sugarsync.com/pf/D6477137_642_17855644</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Varecia</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=superfuzzykittens">superfuzzykittens</author>
+  <homepage>http://opendesktop.org/content/show.php?content=151425</homepage>
+  <licence>1</licence>
+  <version>3</version>
+  <rating>64</rating>
+  <downloads>401</downloads>
+  <installedfile>/tmp/kde-victor///151425-Varecia.tar.gz</installedfile>
+  <id>151425</id>
+  <releasedate>2012-06-05</releasedate>
+  <summary>A simple plasma theme which combines the best elements of Oxygen, Androbit, Elegance, and Glassified themes.&#xd;
+&#xd;
+- The main theme is Oxygen and uses the beautiful Oxygen panel style.&#xd;
+- The widget tooltips/borders/background are from Elegance and are semi-transparent.&#xd;
+- The volume/horizontal/vertical sliders are from Glassified and look much nicer without the blocks.&#xd;
+- The shutdown screen is from Androbit, and doesn\'t have some random moon.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m151425-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/151425-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/151425-Varecia.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Slim Glow</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=ivancukic">ivancukic</author>
+  <homepage>http://opendesktop.org/content/show.php?content=74329</homepage>
+  <licence>1</licence>
+  <version>5.0</version>
+  <rating>86</rating>
+  <downloads>24581</downloads>
+  <installedfile>/tmp/kde-victor///74329-slim-glow.tar.gz</installedfile>
+  <id>74329</id>
+  <releasedate>2012-12-31</releasedate>
+  <summary>Making Plasma beautiful since KDE 4.0 betas.&#xd;
+&#xd;
+The theme is now available both on kde-look and in the kdegraphics module packaged by your favourite distribution.&#xd;
+&#xd;
+I don't read comments here. If you want to tell me something, you can try on IRC #plasma channel. If you want to report an issue, use bugs.kde.org.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m74329-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/74329-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/74329-slim-glow.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Naked</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=pfspear">pfspear</author>
+  <homepage>http://opendesktop.org/content/show.php?content=93331</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>83</rating>
+  <downloads>2660</downloads>
+  <installedfile>/tmp/kde-victor///93331-Naked-0.1.tar.gz</installedfile>
+  <id>93331</id>
+  <releasedate>2008-11-20</releasedate>
+  <summary>Plasma revealed.&#xd;
+&#xd;
+This theme features blank borders and backgrounds, to give plasmoids a more &amp;quot;embedded&amp;quot; feel- rather than making them look like a second system of windows.&#xd;
+&#xd;
+This was originally to be a theme with just blank widgets and notes, so that users could swap in the rest- the taskbar, dialogs, clock, etc- from their theme of choice.  I still encourage this, but for those that want to use it, I've created a light-as-feathers theme around the idea of naked Plasma.&#xd;
+&#xd;
+Not all elements are implemented, and others haven't been changed from the theme, Glaze, that I duplicated to start from.  They will be done soon.  In the meantime, either enjoy the theme as is or just swap in theme you like best alongside Naked's naked widgets.&#xd;
+&#xd;
+Nimbus Sans recommended to complete the look.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m93331-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/93331-1.jpg</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/93331-Naked-0.1.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

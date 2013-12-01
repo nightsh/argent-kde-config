@@ -1,0 +1,48 @@
+kcminputrc Mouse cursorTheme 'Oxygen_White'
+/home/victor/.kde/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/victor/.kde/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme Default
+/home/victor/.kde/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashX
+/home/victor/.kde/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+krandrrc Display ApplyOnStartup false
+/home/victor/.kde/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc Display StartupCommands ''
+/home/victor/.kde/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen0]
+/home/victor/.kde/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen1]
+/home/victor/.kde/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen2]
+/home/victor/.kde/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+krandrrc [Screen3]
+/home/victor/.kde/share/config/krandrrc
+!/usr/share/config/krandrrc
+*
+kcmfonts General forceFontDPI 0
+/home/victor/.kde/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
+kdeglobals Locale Language '' # trigger requesting languages from KLocale
+/home/victor/.kde/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*

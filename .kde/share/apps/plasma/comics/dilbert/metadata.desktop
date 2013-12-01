@@ -1,0 +1,33 @@
+[Desktop Entry]
+Name=Dilbert
+Name[ko]=딜버트
+Name[lv]=Dilberts
+Name[sr]=Дилберт
+Name[th]=ดิลเบอร์ต
+Name[uk]=Дильберт
+Name[x-test]=xxDilbertxx
+Name[zh_TW]=呆伯特
+Comment=Dilbert
+Comment[ko]=딜버트
+Comment[lv]=Dilberts
+Comment[nl]=Dilbert-strip
+Comment[sr]=Стрип „Дилберт“
+Comment[sr@latin]=Strip „Dilbert“
+Comment[th]=ดิลเบอร์ต
+Comment[uk]=Дильберт
+Comment[x-test]=xxDilbertxx
+Comment[zh_TW]=呆伯特
+Type=Service
+X-KDE-ServiceTypes=Plasma/Comic
+Icon=icon.png
+
+X-KDE-Library=plasma_comic_krossprovider
+X-KDE-PluginInfo-Author=Matthias Fuchs
+X-KDE-PluginInfo-Email=mat69@gmx.net
+X-KDE-PluginInfo-Name=dilbert
+X-KDE-PluginInfo-Version=1.2
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-License=GPLv2
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PlasmaComicProvider-SuffixType=Date
+

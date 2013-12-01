@@ -1,0 +1,9 @@
+[KSplash Theme: Default]
+Name = Breathing Linux
+Description = Breathing Linux Splash Screen
+Version = 1.0
+Author = Sameer Naik <sameer@damagehead.com>
+Homepage = http://www.damagehead.com
+
+# Theme behaviour settings.
+Engine = KSplashX

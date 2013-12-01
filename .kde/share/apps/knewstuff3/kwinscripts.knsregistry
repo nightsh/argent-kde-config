@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>GameMode</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=thomas12777">thomas12777</author>
+  <homepage>http://opendesktop.org/content/show.php?content=156659</homepage>
+  <licence>1</licence>
+  <version>0.1</version>
+  <rating>53</rating>
+  <downloads>70</downloads>
+  <installedfile>/tmp/kde-victor///156659-gamemode.kwinscript</installedfile>
+  <id>156659</id>
+  <releasedate>2013-01-29</releasedate>
+  <summary>Simple scriplet which makes a definable list of windows block the compositor when they move into fullscreen mode (predefined are videoplayer, but it can be extended with games, sw. like celestia or stellarium ;-)&#xd;
+&#xd;
+The script does not have a config GUI - i\'m not even sure that\'s supported atm. but after installation you can edit the list in ~/.kde/share/apps/kwin/scripts/gamemode/contents/code/main.js&#xd;
+&#xd;
+(afaik atm. you\'ll have to restart \&amp;quot;kwin --replace &amp;amp;\&amp;quot; to effectively update the script)</summary>
+  <changelog></changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/156659-gamemode.kwinscript</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Sticky Window Snapping</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Flupp">Flupp</author>
+  <homepage>http://opendesktop.org/content/show.php?content=157382</homepage>
+  <licence>1</licence>
+  <version>0.2</version>
+  <rating>63</rating>
+  <downloads>75</downloads>
+  <installedfile>/tmp/kde-victor///157382-sticky-window-snapping-v0.2.kwinscript</installedfile>
+  <id>157382</id>
+  <releasedate>2013-03-10</releasedate>
+  <summary>Let snapped window edges stick together when one window is resized.&#xd;
+&#xd;
+The script registers two global shortcuts: one for enabling/disabling the script permanently, and one for enabling/disabling the script only for the next resize. The default shortcut keys are Meta+Shift+S and Ctrl+Shift+S, respectively. You can change them using systemsettings (or kcmshell4 keys); they are associated with the component âKWinâ. Their names are prefixed by âKWin Script: Sticky Window Snappingâ.&#xd;
+&#xd;
+Known issues:&#xd;
+[li]There is no optical feedback when a shortcut is pressed. I do not know how to initiate a KNotify notification from a KWin script. There is the function callDBus, but I do not if or how it can be used for that purpose. KNotify provides the method âeventâ by dbus, but it expects arguments of types for which I do not know how to produce values with Java Script.[/li]&#xd;
+[li]Currently, not only snapped window edges are considered as connected, but even edges which are only on the same row/column are considered as connected. I have not decided, if this is a bug or a feature, yet.[/li]</summary>
+  <changelog>v0.2:&#xd;
+[li]maximized windows are ignored now[/li]&#xd;
+[li]shaded windows are ignored now[/li]&#xd;
+[li]windows on other screens are ignored now[/li]&#xd;
+[li]changed behavior when windows get very small while resizing[/li]&#xd;
+&#xd;
+v0.1:&#xd;
+[li]initial release[/li]</changelog>
+  <preview></preview>
+  <previewBig></previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/157382-sticky-window-snapping-v0.2.kwinscript</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

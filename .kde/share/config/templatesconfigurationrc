@@ -1,0 +1,27 @@
+[Templates #IDENTITY_1651413189]
+QuoteString=>
+TemplateForward=\n\nBegin forwarded message:\n\n?d{Date: %DATE\n}?f{From: %OTONAME\n}?t{To: %TONAME\n}?c{Cc: %CCNAME\n}?n{Newsgroups: %n\n}?s{Subject: %OFULLSUBJECT\n}\n\n%TEXT
+TemplateNewMessage=Hello,\n
+TemplateReply=On %DATE\n%OTONAME wrote:\n\n%QUOTE
+TemplateReplyAll=%REM="Default reply all template"%-\nOn %ODATE %OTIMELONG %OFROMNAME wrote:\n%QUOTE\n%CURSOR
+
+[Templates #IDENTITY_561779707]
+QuoteString=>\s
+TemplateForward=%REM="Default forward template"%-\n\n----------  Forwarded Message  ----------\n\nSubject: %OFULLSUBJECT\nDate: %ODATE, %OTIMELONG\nFrom: %OFROMADDR\n%OADDRESSEESADDR\n\n%TEXT\n-----------------------------------------
+TemplateNewMessage=%REM="Default new message template"%-\n%BLANK
+TemplateReply=%REM="Default reply template"%-\nOn %ODATE %OTIMELONG you wrote:\n%QUOTE\n%CURSOR
+TemplateReplyAll=%REM="Default reply all template"%-\nOn %ODATE %OTIMELONG %OFROMNAME wrote:\n%QUOTE\n%CURSOR
+
+[Templates #IDENTITY_835385675]
+QuoteString=>
+TemplateForward=\n\nBegin forwarded message:\n\n?d{Date: %DATE\n}?f{From: %OTONAME\n}?t{To: %TONAME\n}?c{Cc: %CCNAME\n}?n{Newsgroups: %n\n}?s{Subject: %OFULLSUBJECT\n}\n\n%TEXT
+TemplateNewMessage=Hello,\n
+TemplateReply=On %DATE\n%OTONAME wrote:\n\n%QUOTE
+TemplateReplyAll=%REM="Default reply all template"%-\nOn %ODATE %OTIMELONG %OFROMNAME wrote:\n%QUOTE\n%CURSOR
+
+[Templates #IDENTITY_853298061]
+QuoteString=>\s
+TemplateForward=%REM="Default forward template"%-\n\n----------  Forwarded Message  ----------\n\nSubject: %OFULLSUBJECT\nDate: %ODATE, %OTIMELONG\nFrom: %OFROMADDR\n%OADDRESSEESADDR\n\n%TEXT\n-----------------------------------------
+TemplateNewMessage=%REM="Default new message template"%-\n%BLANK
+TemplateReply=%REM="Default reply template"%-\nOn %ODATE %OTIMELONG you wrote:\n%QUOTE\n%CURSOR
+TemplateReplyAll=%REM="Default reply all template"%-\nOn %ODATE %OTIMELONG %OFROMNAME wrote:\n%QUOTE\n%CURSOR

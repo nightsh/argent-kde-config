@@ -1,0 +1,40 @@
+Name=Adiumicons
+Description=Adiumicons Emoticon Theme (Icons by Oscar Gruno and Andrei Fedosjeenko)
+Icon=w00t.png
+Author=robotangel
+
+[default]
+joyful.png	^^ ^_^ ^.^ :-)) :))
+angry.png	X( x( x-( X-( :@ <_< >_> >:o >:O >:-o >:-O
+blushing.png	:$ :-$ :"> :*>
+crying.png	:'( ='( :'-(
+pouty.png	:-| :| =|
+surprised.png	:O :o :-O :-o =O =o =-O =-o
+grin.png	:D :d :-D :-d =D =d =-D =-d
+angel.png	O:) O:-) o:) o:-) 0:) 0:-)
+kissing.png	:* :-*
+smile.png	:) :-)
+tongue.png	:P :-P :p :-p =p =P =-P =-p :b
+uncertain.png	:/ :-/ :\ :-\
+cool.png	B) b) B-) b-) 8) 8-)
+wink.png	;) ;-) ;> ;->
+happy.png	=) =-)
+alien.png	=:) =:-)
+andy.png	o_O O_o o_o O_O oO Oo OO O.o o.O o.o O.O 0_0
+devil.png	>:) >:-)
+lol.png		lol (LOL)
+ninja.png	(:) (ph33r) (ph34r)
+pinched.png	>_< >.<
+policeman.png	(police) (cop) {):)
+sad.png		:( :-( =( =-(
+sick.png	:& :-&
+sideways.png	=]
+sleeping.png	(-.-) |) |-) I-) I-|
+unsure.png	:s :S :-S :-s
+w00t.png	(woot) (w00t) (wOOt)
+whistling.png	:-" :"
+wizard.png	(wizard)
+wondering.png	:?
+love.png	:X :-xX :x :-X :-x (wubya) (wubyou) (wub)
+bandit.png	(bandit) :(>
+heart.png	(L) (h) (H)

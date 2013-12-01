@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Author:  Olivier Goffart   2009 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="100%"
+   height="100%"
+   sodipodi:docname="eyes.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1876"
+     inkscape:window-height="995"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.023159394"
+     inkscape:cx="-10175.577"
+     inkscape:cy="891.48413"
+     inkscape:window-x="32"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     id="g4">
+    <ellipse
+       id="leftEye"
+       fill="white"
+       stroke="black"
+       rx="100%"
+       ry="100%"
+       cx="50%"
+       cy="50%"
+       stroke-width="17%" />
+    <ellipse
+       id="rightEye"
+       fill="white"
+       stroke="black"
+       rx="100%"
+       ry="100%"
+       cx="50%"
+       cy="50%"
+       stroke-width="17%" />
+    <ellipse
+       id="leftPupil"
+       fill="black"
+       rx="100%"
+       ry="100%"
+       cx="50%"
+       cy="50%" />
+    <ellipse
+       id="rightPupil"
+       fill="black"
+       rx="100%"
+       ry="100%"
+       cx="50%"
+       cy="50%"
+       style="fill:#00002b;fill-opacity:1" />
+  </g>
+</svg>

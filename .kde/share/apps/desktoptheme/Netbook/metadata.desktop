@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Netbook
+
+Comment=An elegant theme for netbooks.
+
+X-KDE-PluginInfo-Author=MartijnS
+X-KDE-PluginInfo-Author=martijn.schellekens (at) m4x.org
+X-KDE-PluginInfo-Name=Netbook
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://www.kde-look.org
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true

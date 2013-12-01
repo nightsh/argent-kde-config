@@ -1,0 +1,15 @@
+showLT	True
+showUTC	True
+showLST	True
+showJD	False
+showDate	True
+showTMR	True
+useUGD	False
+useTP	True
+defaultSite = Austin, TX
+Austin, TX	-97.700000	-6	CST 
+Long Beach, CA	-118.150000	-8	PST
+NRAO - GBT	-79.834722	-5	EST
+NRAO - VLA	-107.617778	-7	MST
+Seattle, WA	-122.317000	-8	PST
+Waverly, IA	-92.492222	-6	CST

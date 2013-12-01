@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Breathing Linux</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=sameersbn">sameersbn</author>
+  <homepage>http://opendesktop.org/content/show.php?content=111587</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>71</rating>
+  <downloads>1017</downloads>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1024x768/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1024x768/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/Theme.rc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/600x400/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/600x400/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/Preview.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1920x1200/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1920x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/800x600/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/800x600/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1280x1024/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1280x1024/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1600x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1600x1200/anim.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1600x1200/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/1600x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Breathing Linux/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>111587</id>
+  <releasedate>2009-09-21</releasedate>
+  <summary>kde 4.x splash based on the default kde 4 splash. Supports all resolutions</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m111587-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/111587-1.png</previewBig>
+  <payload>http://download.damagehead.com/candy/kde4/breathing-linux.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Caledonia KSplash</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Malcer">Malcer</author>
+  <homepage>http://opendesktop.org/content/show.php?content=143576</homepage>
+  <licence>11</licence>
+  <version>1.0</version>
+  <rating>79</rating>
+  <downloads>12709</downloads>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/Theme.rc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/Preview.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1920x1200/background.jpeg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1920x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/progress1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/progress4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/progress2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/progress3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/progress0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/1600x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Caledonia-KSplash/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>143576</id>
+  <releasedate>2012-09-04</releasedate>
+  <summary>[en]&#xd;
+&#xd;
+Simple and lightweight splash screen for KDE. Official part of Caledonia Theme.&#xd;
+&#xd;
+------------------&#xd;
+&#xd;
+[es]&#xd;
+&#xd;
+Sencillo y liviano splash para KDE. Compotente oficial del tema Caledonia.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m143576-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/143576-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/143576-Caledonia-KSplash.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>SteampunK KSplash Theme</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=Paladin-MMX">Paladin-MMX</author>
+  <homepage>http://opendesktop.org/content/show.php?content=142138</homepage>
+  <licence>11</licence>
+  <version></version>
+  <rating>85</rating>
+  <downloads>5675</downloads>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Theme.rc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Preview.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Backgrounds/background1920x1200.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Backgrounds/background2133x1200.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Backgrounds/background1500x1200.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Backgrounds/background1600x1200.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Backgrounds/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/gauge.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/lights0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch9.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/lamps0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch5.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/lamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/dynamo.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switchlamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/gears.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/lights.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/plating.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch8.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/gauge0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/indicator.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch7.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/switch6.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/background.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1920x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/gauge.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/lights0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch9.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/lamps0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch5.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/lamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/dynamo.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switchlamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/gears.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/lights.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/plating.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch8.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/gauge0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/indicator.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch7.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/switch6.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/background.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/2133x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/gauge.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/lights0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch9.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/lamps0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch5.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/lamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/dynamo.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switchlamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/gears.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/lights.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/plating.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch8.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/gauge0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/indicator.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch7.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/switch6.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/Animations/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/gauge.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/lights0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch9.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/lamps0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch5.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/lamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/dynamo.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switchlamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/gears.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/lights.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/plating.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch8.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/gauge0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/indicator.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch7.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/switch6.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/background.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1500x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/gauge.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/lights0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch9.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/lamps0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch5.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/lamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/dynamo.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switchlamps.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/gears.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/lights.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/plating.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch8.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/gauge0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/indicator.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch7.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/switch6.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/background.jpg</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/1600x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//SteampunK/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>142138</id>
+  <releasedate>2012-01-15</releasedate>
+  <summary>This item is a part of Steam-Powered Linux KDE theme set.&#xd;
+&#xd;
+The idea is to apply steampunk style to every themeable part of KDE-based distro. Any constructive feedback is highly appreciated. I will try to implement your propositions/fix bugs once I have spare time.&#xd;
+&#xd;
+Parts of this set currently available:&#xd;
+Plymouth:http://kde-look.org/content/show.php/SteampunK+Plymouth+Theme?content=146030&#xd;
+KDM: http://kde-look.org/content/show.php?content=142139&#xd;
+KSplash: http://kde-look.org/content/show.php?content=142138&#xd;
+QtCurve: http://kde-look.org/content/show.php?content=148276&#xd;
+Dark color scheme: http://kde-look.org/content/show.php/SteampunK+Color+Scheme?content=148277&#xd;
+Light color scheme: http://kde-look.org/content/show.php/SteampunK+Light+Color+Scheme?content=155868&#xd;
+Wallpapers: http://kde-look.org/content/show.php/Steampunk+Wallpapers?content=149320&#xd;
+Plasma Desktop theme: http://kde-look.org/content/show.php?content=157926&#xd;
+&#xd;
+You can see KDM and KSplash demo video here: http://www.youtube.com/watch?v=f3ubaXe8wDE&#xd;
+New video will be recorded as soon as the majority of work is done.&#xd;
+&#xd;
+KSplash theme notes:&#xd;
+You may encounter weird grey dots during first time you run this theme. It happens when KSplash engine resizes PNG images with transparent pixels on the fly. After resized files are cached, these dots will disappear.&#xd;
+</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m142138-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/142138-1.jpeg</previewBig>
+  <payload>http://sites.google.com/site/binaryinspiration/download/SteampunK_KSplash3.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Idea</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=downdiagonal">downdiagonal</author>
+  <homepage>http://opendesktop.org/content/show.php?content=143206</homepage>
+  <licence>15</licence>
+  <version>1.0</version>
+  <rating>69</rating>
+  <downloads>616</downloads>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/Theme.rc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/Preview.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1920x1200/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1920x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/progress1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/progress4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/progress2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/progress3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/progress0.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/1600x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Idea/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>143206</id>
+  <releasedate>2011-06-30</releasedate>
+  <summary>I wanted to create a simple, modern splash screen. This is the result. Enjoy.</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m143206-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/143206-1.jpg</previewBig>
+  <payload>http://lyricsdownloader.googlecode.com/files/Idea.tar.bz2</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Glow Ksplash</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=rezz">rezz</author>
+  <homepage>http://opendesktop.org/content/show.php?content=135011</homepage>
+  <licence>1</licence>
+  <version>1.0</version>
+  <rating>60</rating>
+  <downloads>890</downloads>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/Theme.rc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/Preview.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress1.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress4.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress2.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress5.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress3.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress8.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/overlay.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/description.txt</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/rectangle.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress6.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress9.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress10.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/progress7.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/1920x1200/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Glow-Ksplash/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>135011</id>
+  <releasedate>2010-11-16</releasedate>
+  <summary>Modified ksplash from dreams-ksplash matching KDM theme also!&#xd;
+&#xd;
+Set for resolution of 1920x1200 so this theme should work fine on most resolutions.&#xd;
+&#xd;
+http://kde-look.org/content/show.php/Glow+KDM?content=135012</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m135011-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/135011-1.png</previewBig>
+  <payload>http://opendesktop.org/CONTENT/content-files/135011-Glow-Ksplash.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+ <stuff category="">
+  <name>Fabric Dots Nowardev</name>
+  <providerid>https://api.opendesktop.org/v1/</providerid>
+  <author homepage="http://opendesktop.org/usermanager/search.php?username=nowardev">nowardev</author>
+  <homepage>http://opendesktop.org/content/show.php?content=158992</homepage>
+  <licence>1</licence>
+  <version>1</version>
+  <rating>53</rating>
+  <downloads>103</downloads>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/Theme.rc</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/main.qml</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/Preview.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/images/logo.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/images/.kdeletter.png.autosave</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/images/background.png</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/images/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/LICENSE</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//Fabric Dots Nowardev/</installedfile>
+  <installedfile>/home/victor/.kde/share/apps/ksplash/Themes//</installedfile>
+  <id>158992</id>
+  <releasedate>2013-06-03</releasedate>
+  <summary>preview : http://www.youtube.com/watch?v=JfTeLXFmQZ4&#xd;
+QML Animated KDE logo with dots on fabric background</summary>
+  <changelog></changelog>
+  <preview>http://openDesktop.org/CONTENT/content-m1/m158992-1.png</preview>
+  <previewBig>http://openDesktop.org/CONTENT/content-pre1/158992-1.jpeg</previewBig>
+  <payload>https://kde-peace-settings.googlecode.com/files/Fabric Dots Nowardev.tar.gz</payload>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

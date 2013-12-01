@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=Transparent theme for KDE 4.x 
+Comment[it]=Tema trasparente per KDE 4.x
+Name=Diamond
+X-KDE-PluginInfo-Author=mike
+X-KDE-PluginInfo-Version=1.5.6
+X-KDE-PluginInfo-Author=MIKE
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-Name=Diamond
+X-KDE-PluginInfo-Website=http://kde-look.org
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=KDE4
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
